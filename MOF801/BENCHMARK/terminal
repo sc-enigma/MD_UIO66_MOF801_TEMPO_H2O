@@ -1,0 +1,36 @@
+cd /home/sc_enigma/Projects/MD_MOF801/BENCHMARK/MOF801_ONLY/
+
+cp /home/sc_enigma/Projects/MD_MOF801/MD_MOF801/TOP/topol.top topol.top
+
+mkdir include
+
+# LINK TO GRO FILE #
+ln -s ../../../MD_MOF801/TOP/MOF801/mof801.itp ./include/mof801.itp
+ln -s ../../../MD_MOF801/TOP/MOF801/atomtypes_mof801.itp ./include/atomtypes_mof801.itp
+ln -s ../../../MD_MOF801/MDP/grompp_1_em.mdp ./include/grompp_1_em.mdp
+ln -s ../../../MD_MOF801/MDP/grompp_2_prod.mdp ./include/grompp_2_eql.mdp
+ln -s ../../../MD_MOF801/MDP/grompp_2_prod.mdp ./include/grompp_3_prod.mdp
+
+mkdir em
+cd /home/sc_enigma/Projects/MD_MOF801/BENCHMARK/MOF801_ONLY/em/
+gmx_mpi grompp -f ../include/grompp_1_em.mdp -c ../include/mof801_tempo.gro -r ../include/mof801_tempo.gro -p ../topol.top -o em.tpr -maxwarn 1 -v
+gmx_mpi mdrun -s *.tpr -v
+cd..
+
+mkdir eql
+cd /home/sc_enigma/Projects/MD_MOF801/BENCHMARK/MOF801_ONLY/eql/
+gmx_mpi grompp -f ../include/grompp_2_eql.mdp -c mof801_tempo_w600.gro -r mof801_tempo_w600.gro -p ../topol.top -o eql.tpr -maxwarn 1 -v
+gmx_mpi mdrun -s *.tpr -v
+cd..
+
+mkdir prod
+cd /home/sc_enigma/Projects/MD_MOF801/BENCHMARK/MOF801_ONLY/prod/
+gmx_mpi grompp -f ../include/grompp_3_prod.mdp -c mof801_tempo_w600.gro -r mof801_tempo_w600.gro -p ../topol.top -o prod.tpr -maxwarn 1 -v
+gmx_mpi mdrun -s *.tpr -v
+cd..
+
+gmx_mpi make_ndx -f ./confout.gro -o index.ndx
+[ ROTACF ]
+3535 3545 3540
+gmx_mpi rotacf -f traj_comp.xtc -s prod.tpr -n index.ndx -o rotacf.xvg
+3 / 7 / ...

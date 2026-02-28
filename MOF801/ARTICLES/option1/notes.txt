@@ -1,0 +1,1 @@
+Lorentz-Berthelot General2 the mixed rule is used for determining Lenard Jones parameters

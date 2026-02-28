@@ -1,0 +1,7 @@
+The Universal Force Field (UFF) and the DREIDING Force Field
+The cut-off radius, rc, is fixed at 12 Å
+
+Bonded interactions: [59,60]
+DREDING: https://pubs.acs.org/doi/abs/10.1021/j100389a010
+UUF: https://pubs.acs.org/doi/abs/10.1021/ja00051a040
+
