@@ -1,0 +1,13 @@
+[ defaults ]
+; nbfunc        comb-rule       gen-pairs       fudgeLJ fudgeQQ
+1               2               yes             0.5     0.8333
+
+#include "include/atomtypes_mof801.itp"
+#include "include/mof801.itp"
+
+[ system ]
+MOF801
+
+[ molecules ]
+;molecule name   nr.
+MOF              1
