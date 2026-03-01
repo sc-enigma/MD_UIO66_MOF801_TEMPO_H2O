@@ -2,7 +2,7 @@ import sys
 import numpy as np
 import pickle
 
-sys.path.append('../../../MD_ZIF7_TEMPO/system/components')
+sys.path.append('../../../COMPONENTS/')
 
 from atom import Atom
 
@@ -99,3 +99,11 @@ def remove_periodic_bonds(atoms):
                 else:
                     adj_cnt += 1
     return atoms
+
+def select_atoms(atoms, condition, value):
+    ids = []
+    for idx in range(len(atoms)):
+        if condition == 'r':
+            if atoms[idx].r[0] < value or atoms[idx].r[1] < value or atoms[idx].r[2] < value:
+                ids.append(idx)
+    return ids

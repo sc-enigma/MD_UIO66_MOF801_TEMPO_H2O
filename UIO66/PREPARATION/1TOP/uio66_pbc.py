@@ -103,14 +103,15 @@ def apply_pbc(atoms,
             if orig_cnt != 1:
                 print('ERROR', orig_cnt, r_internal)
     
-    np.save('__tmp/unique.npy', unique)
     adjacency_data = [atom.adjacency for atom in atoms]
-    with open('__tmp/adjacency_data.pickle', 'wb') as handle:
-        pickle.dump(adjacency_data, handle, protocol=pickle.HIGHEST_PROTOCOL)
-    
-    unique = np.load('__tmp/unique.npy')
-    with open('__tmp/adjacency_data.pickle', 'rb') as handle:
-        adjacency_data = pickle.load(handle)
+    ### CASHING START ###
+    # np.save('__tmp/unique.npy', unique)
+    # with open('__tmp/adjacency_data.pickle', 'wb') as handle:
+    #     pickle.dump(adjacency_data, handle, protocol=pickle.HIGHEST_PROTOCOL)
+    # unique = np.load('__tmp/unique.npy')
+    # with open('__tmp/adjacency_data.pickle', 'rb') as handle:
+    #     adjacency_data = pickle.load(handle)
+    ### CASHING END ###
     for atom_idx in range(len(atoms)):
         atoms[atom_idx].adjacency = np.unique(adjacency_data[atom_idx].copy()).tolist()
 
