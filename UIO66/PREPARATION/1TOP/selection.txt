@@ -1,0 +1,5 @@
+x < 44 and x > 7 and y < 44 and y > 7 and z < 44 and z > 7 and type Zr
+or
+x < 44 and x > 7 and y < 44 and y > 7 and z < 44 and z > 7 and  type O3
+or
+x > 9.5 and x < 43 and y > 9.5 and y < 43 and z > 9.5 and z < 43

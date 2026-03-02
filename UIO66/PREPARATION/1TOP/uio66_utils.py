@@ -59,8 +59,7 @@ def define_uio66_atom_types(atoms):
     # check that all atom types defined
     for atom_idx in range(len(atoms)):
         if atoms[atom_idx].atom_type == 'unk_type':
-            # print('ERROR')            
-            # print(getElem(atom_idx), getNeighbourElems(atom_idx))
+            # print('ERROR', atom_idx, atoms[atom_idx].adjacency) # getElem(atom_idx), getNeighbourElems(atom_idx))
             atoms[atom_idx].atom_type = 'flexFF_C1'
             
     return atoms
@@ -82,7 +81,7 @@ def remove_Zr_Zr_bond(atoms):
         while adj_cnt < len(atoms[atom_idx].adjacency):
             adj_idx = atoms[atom_idx].adjacency[adj_cnt]
             if 'Zr' in atoms[adj_idx].name:
-                del(atoms[atom_idx].adjacency[adj_cnt])
+                del atoms[atom_idx].adjacency[adj_cnt]
             else:
                 adj_cnt += 1
 
