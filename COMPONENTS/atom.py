@@ -28,7 +28,7 @@ def mol2_to_atoms(data):
         r = [float(c) for c in split[2:5]]
         atoms.append(Atom(name, r))
         atoms[-1].atom_idx = atom_idx
-        # atoms[-1].mol2name = split[5]
+        atoms[-1].mol2name = split[5]
     
     if 'BOND' in data.keys():
         data_bonds = data['BOND']
@@ -164,4 +164,29 @@ def add_atoms(atoms1, atoms2):
             atoms[atom_idx].adjacency[adjacency_idx] += len(atoms1)
     return atoms
 
+def remove_duplicates(atoms):
+    ids_repl = np.arange(0, len(atoms))
+    duplicates = []
+    for i in range(len(atoms)):
+        if not i in duplicates:
+            for j in range(i+1, len(atoms)):
+                if np.linalg.norm(atoms[i].r - atoms[j].r) < 0.01:
+                    atoms[i].adjacency += atoms[j].adjacency
+                    duplicates.append(j)
+                    ids_repl[j] = i
     
+    for i in range(len(atoms)):
+        if not i in duplicates:
+            for j in range(len(atoms[i].adjacency)):
+                atoms[i].adjacency[j] = ids_repl[atoms[i].adjacency[j]]
+    
+    ids_repl = np.delete(ids_repl, duplicates)
+    atoms = np.delete(atoms, duplicates)
+    
+    for i in range(len(atoms)):
+        for j in range(len(atoms[i].adjacency)):
+            atoms[i].adjacency[j] = int(np.argwhere(ids_repl==atoms[i].adjacency[j]).flatten()[0])
+            
+    for i in range(len(atoms)):
+        atoms[i].adjacency = list(np.unique(atoms[i].adjacency))
+    return atoms
