@@ -43,8 +43,7 @@ with open('__tmp/atoms_mof801.pickle', 'rb') as handle:
 # STEP 2. Remove some linkers
 ### CASHING START ###
 linkers = find_linkers(atoms, ['Zr', 'O1', 'O2'], 6)
-# int(len(linkers) * 0.25)
-ids_linkers_to_remove = np.unique([random.randint(0, len(linkers)-1) for _ in range(10)])
+ids_linkers_to_remove = np.unique([random.randint(0, len(linkers)-1) for _ in range(int(len(linkers) * 0.25))])
 ids_atoms_to_remove = list(itertools.chain.from_iterable([linkers[i] for i in ids_linkers_to_remove]))
 for i in ids_linkers_to_remove:
     connected_oxygens = find_connected_atoms(atoms, ['O1'], linkers[i])
