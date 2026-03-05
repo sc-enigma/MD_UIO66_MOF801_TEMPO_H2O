@@ -6,7 +6,7 @@ sys.path.append('../../../COMPONENTS/')
 
 from atom import Atom
 
-def find_linkers(atoms, forbidden_names):
+def find_linkers(atoms, forbidden_names, required_size):
     max_linker_size = 10
     ids_linkers = []
     used = np.full(len(atoms), False)
@@ -23,7 +23,8 @@ def find_linkers(atoms, forbidden_names):
                     if not used[k] and not atoms[k].name in forbidden_names and not k in ids_linker:
                         ids_linker.append(k)
                 used[j] = True
-        ids_linkers.append(ids_linker)
+        if len(ids_linker) == required_size:
+            ids_linkers.append(ids_linker)
     return ids_linkers
 
 def find_connected_atoms(atoms, target_names, linker_ids):

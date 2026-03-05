@@ -27,22 +27,24 @@ bounds_c = [0.0, 2.5]
 
 # STEP 1. Preprocess data
 ### CASHING START ###
-# atoms = mol2_to_atoms(read_mol2_file('__source_mof801_444.mol2'))
-# atoms = shift_atoms(atoms, np.array([-5.4587, -5.4587, -5.4587]))
-# atoms = define_mof801_atom_types(atoms)
-# atoms = define_mof801_atom_names(atoms)
-# check_mof801_atom_names(atoms)
-# with open('__tmp/atoms_mof801.pickle', 'wb') as handle:
-#     pickle.dump(atoms, handle, protocol=pickle.HIGHEST_PROTOCOL)
+'''
+atoms = mol2_to_atoms(read_mol2_file('__source_mof801_444.mol2'))
+atoms = shift_atoms(atoms, np.array([-4.4587, -4.4587, -4.4587]))
+atoms = define_mof801_atom_types(atoms)
+atoms = define_mof801_atom_names(atoms)
+check_mof801_atom_names(atoms)
+with open('__tmp/atoms_mof801.pickle', 'wb') as handle:
+    pickle.dump(atoms, handle, protocol=pickle.HIGHEST_PROTOCOL)
+'''
 ### CASHING END ###
-
 with open('__tmp/atoms_mof801.pickle', 'rb') as handle:
     atoms = pickle.load(handle)
     
 # STEP 2. Remove some linkers
-'''
-linkers = find_linkers(atoms, ['Zr', 'O1', 'O2'])
-ids_linkers_to_remove = np.unique([random.randint(0, len(linkers)-1) for _ in range(int(len(linkers) * 0.25))])
+### CASHING START ###
+linkers = find_linkers(atoms, ['Zr', 'O1', 'O2'], 6)
+# int(len(linkers) * 0.25)
+ids_linkers_to_remove = np.unique([random.randint(0, len(linkers)-1) for _ in range(10)])
 ids_atoms_to_remove = list(itertools.chain.from_iterable([linkers[i] for i in ids_linkers_to_remove]))
 for i in ids_linkers_to_remove:
     connected_oxygens = find_connected_atoms(atoms, ['O1'], linkers[i])
@@ -51,11 +53,15 @@ for i in ids_linkers_to_remove:
     atoms = add_oh(atoms, connected_oxygens[0][1], ids_atoms_to_remove)
     atoms = add_oh(atoms, connected_oxygens[1][1], ids_atoms_to_remove)
 atoms = remove_atoms(atoms, ids_atoms_to_remove)
-'''
+with open('__tmp/atoms_mof801.pickle', 'wb') as handle:
+    pickle.dump(atoms, handle, protocol=pickle.HIGHEST_PROTOCOL)
+### CASHING END ###
+with open('__tmp/atoms_mof801.pickle', 'rb') as handle:
+    atoms = pickle.load(handle)
 
 # STEP 3. Write .gro and .mol2 files
-write_gro_file(atoms, 'mof801.gro', 42.5870, 42.5870, 42.5870, alpha, beta, gamma)
-write_mol2_file(atoms, 'mof801.mol2', 42.5870, 42.5870, 42.5870, alpha, beta, gamma)
+write_gro_file(atoms, 'mof801.gro', 44.5870, 44.5870, 44.5870, alpha, beta, gamma)
+write_mol2_file(atoms, 'mof801.mol2', 44.5870, 44.5870, 44.5870, alpha, beta, gamma)
 
 # STEP 4. Write .itp files
 check_mof801_atom_names(atoms)
