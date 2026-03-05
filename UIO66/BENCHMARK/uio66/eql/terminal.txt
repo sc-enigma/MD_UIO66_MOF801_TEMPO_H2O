@@ -1,0 +1,2 @@
+gmx_mpi grompp -f eql.mdp -c uio66.gro -r uio66.gro -p topol.top -o em.tpr -maxwarn 1 -v
+gmx_mpi mdrun -s *.tpr -v
