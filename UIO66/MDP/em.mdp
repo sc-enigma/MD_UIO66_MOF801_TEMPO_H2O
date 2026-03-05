@@ -46,7 +46,9 @@ vdwtype                  = Cut-off
 vdw-modifier             = 
 rvdw                     = 1.4
 DispCorr                 = EnerPres
-; EWALD/PME/PPPM parameters
+
+
+; EWALD/PME/PPPM PARAMETERS
 fourierspacing           = 0.12
 pme_order                = 4
 ewald_rtol               = 1e-05
@@ -57,19 +59,16 @@ ewald_rtol               = 1e-05
 tcoupl                   = v-rescale
 tc-grps                  = System
 tau_t                    = 1.0
-ref_t                    = 300
-; pressure coupling     
+ref_t                    = yes
+
+
+; PRESSURE COUPLING     
 pcoupl                   = no
-pcoupltype               = isotropic
-tau_p                    = 0.5
-compressibility          = 4.5e-5
-ref_p                    = 1.
-refcoord-scaling         = No
 
 
 ; GENERATE VELOCITIES FOR STARTUP RUN
 gen-vel                  = yes
-gen-temp                 = 300
+gen-temp                 = 278
 gen-seed                 = 3532
 
 
