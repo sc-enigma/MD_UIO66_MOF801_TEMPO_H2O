@@ -49,7 +49,7 @@ def define_mof801_atom_types(atoms):
     
     # define H1: itcFF_H1
     for atom_idx in range(len(atoms)):
-        if atoms[atom_idx].mol2name == 'H':
+        if atoms[atom_idx].mol2name == 'H' or atoms[atom_idx].mol2name == 'H1':
             atoms[atom_idx].atom_type = 'itcFF_H1'
         
     # define H7: itcFF_H7

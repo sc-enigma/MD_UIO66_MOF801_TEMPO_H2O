@@ -33,6 +33,29 @@ atoms = shift_atoms(atoms, np.array([-4.4587, -4.4587, -4.4587]))
 atoms = define_mof801_atom_types(atoms)
 atoms = define_mof801_atom_names(atoms)
 check_mof801_atom_names(atoms)
+write_mol2_file(atoms, '__tmp/mof801_source_processed1.mol2', 44.5870, 44.5870, 44.5870, alpha, beta, gamma, True)
+'''
+### CASHING END ###
+
+### SELECTION START ###
+'''
+x < 32.5 and y < 32.5 and z < 32.5
+or
+x < 36 and y < 36 and z < 36 and type O2
+or
+x < 36 and y < 36 and z < 36 and type H7
+or
+x < 36 and y < 36 and z < 36 and type Zr
+-> __tmp/mof801_source_processed2.mol2
+'''
+### SELECTION END ###
+
+### CASHING START ###
+'''
+atoms = mol2_to_atoms(read_mol2_file('__tmp/mof801_source_processed2.mol2'))
+atoms = define_mof801_atom_types(atoms)
+atoms = define_mof801_atom_names(atoms)
+atoms = shift_atoms(atoms, np.array([-1,-1,-1]))
 with open('__tmp/atoms_mof801.pickle', 'wb') as handle:
     pickle.dump(atoms, handle, protocol=pickle.HIGHEST_PROTOCOL)
 '''
@@ -41,7 +64,6 @@ with open('__tmp/atoms_mof801.pickle', 'rb') as handle:
     atoms = pickle.load(handle)
     
 # STEP 2. Remove some linkers
-### CASHING START ###
 linkers = find_linkers(atoms, ['Zr', 'O1', 'O2'], 6)
 ids_linkers_to_remove = np.unique([random.randint(0, len(linkers)-1) for _ in range(int(len(linkers) * 0.25))])
 ids_atoms_to_remove = list(itertools.chain.from_iterable([linkers[i] for i in ids_linkers_to_remove]))
@@ -52,15 +74,10 @@ for i in ids_linkers_to_remove:
     atoms = add_oh(atoms, connected_oxygens[0][1], ids_atoms_to_remove)
     atoms = add_oh(atoms, connected_oxygens[1][1], ids_atoms_to_remove)
 atoms = remove_atoms(atoms, ids_atoms_to_remove)
-with open('__tmp/atoms_mof801.pickle', 'wb') as handle:
-    pickle.dump(atoms, handle, protocol=pickle.HIGHEST_PROTOCOL)
-### CASHING END ###
-with open('__tmp/atoms_mof801.pickle', 'rb') as handle:
-    atoms = pickle.load(handle)
 
 # STEP 3. Write .gro and .mol2 files
-write_gro_file(atoms, 'mof801.gro', 44.5870, 44.5870, 44.5870, alpha, beta, gamma)
-write_mol2_file(atoms, 'mof801.mol2', 44.5870, 44.5870, 44.5870, alpha, beta, gamma)
+write_gro_file(atoms, 'mof801.gro', 33.67, 33.67, 33.67, alpha, beta, gamma)
+write_mol2_file(atoms, 'mof801.mol2', 33.67, 33.67, 33.67, alpha, beta, gamma)
 
 # STEP 4. Write .itp files
 check_mof801_atom_names(atoms)
