@@ -80,6 +80,7 @@ for i in ids_linkers_to_remove:
     atoms = add_oh(atoms, connected_oxygens[0][1], ids_atoms_to_remove)
     atoms = add_oh(atoms, connected_oxygens[1][1], ids_atoms_to_remove)
 atoms = remove_atoms(atoms, ids_atoms_to_remove)
+# Center of the pore (12.3761, 12.3761, 12.3761)
 
 # STEP 3. Write .gro and .mol2 files
 write_gro_file(atoms, 'mof801.gro', 33.67, 33.67, 33.67, alpha, beta, gamma)
