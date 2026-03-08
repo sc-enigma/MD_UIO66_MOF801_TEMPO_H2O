@@ -41,28 +41,28 @@
     39   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
     40   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
     41   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-    42   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-    43   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+    42   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+    43   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
     44   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
     45   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
     46   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
     47   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
     48   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
     49   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-    50   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-    51   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-    52   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-    53   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+    50   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+    51   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+    52   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+    53   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
     54   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
     55   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
     56   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
     57   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-    58   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-    59   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-    60   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-    61   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-    62   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-    63   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+    58   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+    59   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+    60   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+    61   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+    62   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+    63   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
     64   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
     65   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
     66   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
@@ -71,42 +71,42 @@
     69   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
     70   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
     71   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-    72   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-    73   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-    74   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-    75   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-    76   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-    77   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+    72   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+    73   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+    74   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+    75   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+    76   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+    77   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
     78   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
     79   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
     80   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
     81   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
     82   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
     83   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-    84   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-    85   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-    86   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-    87   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-    88   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-    89   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-    90   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-    91   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-    92   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-    93   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-    94   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-    95   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-    96   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-    97   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-    98   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+    84   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+    85   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+    86   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+    87   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+    88   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+    89   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+    90   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+    91   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+    92   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+    93   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+    94   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+    95   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+    96   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+    97   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+    98   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
     99   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    100   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    101   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   102   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   103   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   104   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   105   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   106   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   107   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   102   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   103   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   104   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   105   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   106   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   107   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    108   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    109   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    110   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
@@ -136,128 +136,128 @@
    134   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    135   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    136   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   137   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   138   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   139   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   140   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   141   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   142   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   143   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   144   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   145   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   146   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   147   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   148   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   149   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   150   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   151   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   152   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   153   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   154   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   155   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   156   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   157   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   158   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   159   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   160   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   161   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   162   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   163   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   164   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   165   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   166   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   167   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   168   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   169   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   170   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   171   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   172   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   173   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   174   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   175   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   176   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   177   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   178   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   179   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   180   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   181   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   182   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   183   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   184   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   185   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   186   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   187   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   188   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   189   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   190   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   191   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   192   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   193   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   194   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   195   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   196   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   197   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   198   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   199   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   200   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   201   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   202   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   203   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   204   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   205   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   206   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   137   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   138   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   139   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   140   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   141   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   142   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   143   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   144   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   145   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   146   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   147   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   148   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   149   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   150   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   151   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   152   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   153   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   154   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   155   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   156   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   157   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   158   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   159   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   160   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   161   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   162   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   163   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   164   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   165   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   166   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   167   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   168   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   169   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   170   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   171   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   172   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   173   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   174   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   175   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   176   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   177   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   178   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   179   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   180   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   181   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   182   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   183   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   184   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   185   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   186   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   187   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   188   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   189   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   190   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   191   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   192   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   193   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   194   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   195   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   196   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   197   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   198   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   199   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   200   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   201   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   202   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   203   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   204   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   205   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   206   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    207   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    208   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    209   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    210   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    211   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    212   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   213   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   214   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   215   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   216   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   217   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   218   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   213   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   214   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   215   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   216   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   217   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   218   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    219   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    220   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   221   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   222   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   223   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   224   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   225   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   221   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   222   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   223   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   224   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   225   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    226   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   227   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   228   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   229   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   230   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   231   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   232   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   233   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   234   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   235   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   236   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   237   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   238   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   239   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   240   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   241   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   242   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   243   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   244   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   227   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   228   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   229   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   230   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   231   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   232   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   233   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   234   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   235   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   236   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   237   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   238   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   239   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   240   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   241   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   242   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   243   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   244   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    245   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   246   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   247   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   248   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   249   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   250   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   251   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   252   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   253   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   254   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   255   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   256   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   257   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   258   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   246   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   247   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   248   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   249   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   250   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   251   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   252   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   253   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   254   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   255   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   256   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   257   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   258   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    259   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    260   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    261   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
@@ -269,87 +269,87 @@
    267   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    268   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    269   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   270   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   271   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   272   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   273   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   274   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   275   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   276   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   277   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   278   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   279   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   280   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   281   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   282   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   283   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   284   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   285   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   286   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   287   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   288   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   289   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   290   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   291   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   292   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   293   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   270   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   271   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   272   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   273   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   274   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   275   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   276   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   277   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   278   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   279   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   280   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   281   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   282   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   283   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   284   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   285   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   286   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   287   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   288   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   289   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   290   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   291   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   292   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   293   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    294   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    295   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    296   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    297   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   298   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   299   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   298   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   299   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    300   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    301   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    302   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    303   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    304   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    305   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   306   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   307   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   306   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   307   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    308   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    309   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    310   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    311   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   312   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   313   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   314   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   315   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   316   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   317   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   318   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   319   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   320   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   321   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   322   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   323   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   324   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   325   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   326   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   327   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   328   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   329   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   330   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   331   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   332   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   333   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   334   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   335   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   336   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   337   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   338   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   339   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   340   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   341   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   342   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   343   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   344   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   345   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   346   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   347   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   348   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   349   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   350   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   312   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   313   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   314   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   315   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   316   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   317   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   318   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   319   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   320   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   321   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   322   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   323   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   324   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   325   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   326   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   327   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   328   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   329   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   330   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   331   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   332   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   333   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   334   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   335   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   336   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   337   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   338   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   339   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   340   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   341   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   342   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   343   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   344   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   345   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   346   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   347   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   348   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   349   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   350   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    351   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    352   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    353   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
@@ -357,7 +357,7 @@
    355   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    356   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    357   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   358   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   358   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    359   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    360   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    361   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
@@ -367,30 +367,30 @@
    365   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    366   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    367   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   368   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   369   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   370   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   368   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   369   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   370   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    371   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    372   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    373   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    374   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   375   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   376   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   377   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   378   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   379   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   380   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   381   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   382   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   383   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   384   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   385   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   386   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   387   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   388   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   389   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   390   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   391   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   375   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   376   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   377   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   378   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   379   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   380   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   381   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   382   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   383   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   384   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   385   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   386   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   387   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   388   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   389   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   390   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   391   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    392   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    393   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    394   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
@@ -419,82 +419,82 @@
    417   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    418   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    419   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   420   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   421   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   422   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   423   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   424   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   425   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   426   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   427   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   428   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   429   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   430   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   431   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   432   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   433   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   434   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   435   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   436   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   437   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   438   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   439   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   440   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   441   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   442   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   443   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   444   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   445   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   446   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   447   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   448   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   449   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   450   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   451   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   452   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   453   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   454   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   455   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   456   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   457   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   458   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   459   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   460   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   461   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   462   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   463   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   464   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   465   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   466   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   467   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   468   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   469   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   470   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   471   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   472   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   473   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   474   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   475   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   476   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   477   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   478   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   479   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   480   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   481   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   482   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   483   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   484   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   485   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   486   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   487   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   420   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   421   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   422   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   423   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   424   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   425   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   426   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   427   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   428   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   429   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   430   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   431   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   432   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   433   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   434   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   435   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   436   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   437   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   438   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   439   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   440   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   441   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   442   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   443   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   444   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   445   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   446   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   447   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   448   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   449   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   450   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   451   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   452   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   453   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   454   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   455   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   456   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   457   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   458   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   459   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   460   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   461   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   462   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   463   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   464   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   465   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   466   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   467   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   468   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   469   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   470   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   471   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   472   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   473   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   474   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   475   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   476   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   477   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   478   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   479   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   480   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   481   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   482   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   483   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   484   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   485   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   486   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   487   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    488   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    489   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   490   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   491   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   492   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   493   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   494   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   495   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   490   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   491   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   492   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   493   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   494   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   495   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    496   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    497   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    498   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
@@ -632,44 +632,44 @@
    630   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    631   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    632   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   633   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   634   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   633   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   634   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    635   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    636   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   637   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   638   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   639   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   640   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   641   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   642   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   643   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   644   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   645   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   646   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   637   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   638   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   639   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   640   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   641   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   642   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   643   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   644   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   645   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   646   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    647   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    648   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   649   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   650   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   651   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   652   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   653   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   654   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   649   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   650   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   651   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   652   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   653   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   654   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    655   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    656   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   657   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   658   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   659   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   660   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   661   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   662   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   657   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   658   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   659   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   660   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   661   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   662   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    663   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    664   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   665   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   666   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   667   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   668   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   669   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   670   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   665   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   666   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   667   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   668   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   669   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   670   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    671   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    672   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    673   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
@@ -678,44 +678,44 @@
    676   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    677   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    678   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   679   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   680   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   681   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   682   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   683   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   684   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   679   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   680   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   681   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   682   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   683   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   684   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    685   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    686   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    687   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    688   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    689   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    690   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   691   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   692   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   693   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   694   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   695   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   696   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   697   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   698   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   699   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   700   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   691   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   692   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   693   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   694   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   695   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   696   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   697   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   698   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   699   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   700   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    701   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   702   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   703   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   704   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   705   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   706   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   707   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   702   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   703   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   704   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   705   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   706   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   707   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    708   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    709   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
    710   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   711   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   712   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   713   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   714   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   715   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   716   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   711   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   712   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   713   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   714   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   715   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   716   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    717   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    718   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    719   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
@@ -762,154 +762,154 @@
    760   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    761   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    762   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   763   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   764   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   765   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   766   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   767   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   768   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   763   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   764   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   765   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   766   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   767   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   768   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    769   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    770   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    771   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    772   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   773   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   774   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   775   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   776   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   777   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   778   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   773   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   774   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   775   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   776   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   777   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   778   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    779   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    780   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    781   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    782   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   783   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   784   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   785   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   786   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   787   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   788   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   783   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   784   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   785   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   786   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   787   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   788   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    789   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    790   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    791   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    792   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   793   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   794   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   795   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   796   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   797   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   798   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   793   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   794   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   795   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   796   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   797   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   798   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    799   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    800   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   801   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   802   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   803   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   804   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   805   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   806   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   807   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   808   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   809   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   810   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   811   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   812   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   813   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   814   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   815   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   816   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   817   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   818   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   819   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   820   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   821   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   822   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   823   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   824   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   825   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   826   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   827   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   828   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   829   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   830   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   831   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   832   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   833   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   834   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   835   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   836   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   837   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   838   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   839   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   840   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   841   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   842   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   843   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   844   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   845   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   846   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   847   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   848   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   849   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   850   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   851   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   852   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   853   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   854   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   855   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   856   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   857   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   858   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   859   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   860   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   861   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   862   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   863   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   864   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   801   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   802   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   803   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   804   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   805   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   806   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   807   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   808   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   809   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   810   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   811   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   812   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   813   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   814   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   815   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   816   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   817   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   818   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   819   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   820   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   821   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   822   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   823   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   824   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   825   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   826   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   827   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   828   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   829   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   830   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   831   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   832   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   833   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   834   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   835   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   836   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   837   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   838   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   839   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   840   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   841   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   842   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   843   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   844   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   845   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   846   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   847   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   848   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   849   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   850   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   851   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   852   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   853   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   854   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   855   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   856   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   857   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   858   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   859   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   860   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   861   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   862   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   863   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   864   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    865   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    866   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    867   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   868   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   869   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   870   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   871   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   872   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   868   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   869   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   870   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   871   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   872   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    873   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    874   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    875   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    876   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
    877   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   878   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   879   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   880   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   881   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   882   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   883   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   884   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   885   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   886   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   887   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   888   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   889   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   890   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   891   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   892   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   893   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   894   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   895   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   878   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   879   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   880   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   881   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   882   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   883   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   884   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   885   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   886   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   887   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   888   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   889   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   890   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   891   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   892   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   893   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   894   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   895   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    896   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   897   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   898   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   899   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   900   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   901   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-   902   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   903   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   904   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   905   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   906   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   907   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   908   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   909   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-   910   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+   897   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   898   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   899   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   900   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   901   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   902   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   903   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   904   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   905   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   906   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   907   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   908   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   909   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+   910   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    911   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    912   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    913   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
@@ -938,107 +938,107 @@
    936   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    937   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
    938   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   939   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   940   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   941   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   942   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   943   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   944   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   945   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   946   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   947   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   948   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   949   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   950   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   951   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   952   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   953   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   954   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   955   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   956   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   957   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   958   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   959   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   960   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   961   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   962   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-   963   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   964   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   965   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   966   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   967   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   968   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   969   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   970   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   971   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   972   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   973   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   974   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-   975   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   976   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   977   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   978   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   979   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   980   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   981   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   982   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   983   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   984   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   939   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   940   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   941   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   942   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   943   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   944   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   945   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   946   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   947   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   948   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   949   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   950   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   951   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   952   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   953   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   954   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   955   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   956   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   957   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   958   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   959   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   960   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   961   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   962   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   963   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   964   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   965   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   966   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   967   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   968   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   969   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   970   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   971   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   972   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   973   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   974   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   975   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   976   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   977   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   978   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   979   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   980   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   981   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   982   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   983   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+   984   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
    985   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    986   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-   987   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   988   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   989   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   990   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   991   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   992   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   993   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   994   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+   987   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   988   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   989   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   990   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   991   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   992   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   993   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+   994   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
    995   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    996   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    997   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
    998   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-   999   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1000   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1001   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1002   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1003   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1004   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1005   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1006   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1007   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1008   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1009   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1010   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1011   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1012   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1013   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1014   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1015   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1016   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1017   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1018   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1019   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1020   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1021   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1022   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1023   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1024   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1025   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1026   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1027   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1028   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1029   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1030   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1031   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1032   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1033   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1034   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1035   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1036   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1037   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1038   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1039   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+   999   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1000   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1001   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1002   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1003   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1004   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1005   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1006   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1007   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1008   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1009   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1010   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1011   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1012   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1013   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1014   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1015   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1016   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1017   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1018   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1019   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1020   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1021   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1022   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1023   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1024   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1025   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1026   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1027   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1028   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1029   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1030   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1031   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1032   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1033   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1034   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1035   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1036   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1037   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1038   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1039   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1040   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1041   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1042   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
@@ -1048,8 +1048,8 @@
   1046   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1047   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1048   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1049   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1050   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1049   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1050   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
   1051   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
   1052   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
   1053   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
@@ -1057,36 +1057,36 @@
   1055   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
   1056   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
   1057   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1058   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1059   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1060   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1061   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1062   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1063   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1058   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1059   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1060   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1061   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1062   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1063   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1064   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1065   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1066   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1067   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1068   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1069   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1070   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1071   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1072   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1073   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1074   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1075   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1076   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1077   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1078   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1079   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1080   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1081   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1082   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1083   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1084   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1085   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1086   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1087   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1070   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1071   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1072   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1073   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1074   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1075   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1076   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1077   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1078   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1079   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1080   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1081   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1082   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1083   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1084   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1085   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1086   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1087   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1088   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1089   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1090   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
@@ -1135,175 +1135,175 @@
   1133   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1134   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1135   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1136   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1137   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1138   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1139   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1140   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1141   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1142   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1143   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1144   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1145   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1146   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1147   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1148   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1149   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1150   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1151   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1152   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1153   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1154   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1155   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1156   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1157   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1158   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1159   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1160   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1161   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1162   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1163   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1164   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1165   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1166   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1167   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1168   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1169   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1170   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1171   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1172   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1173   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1174   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1175   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1176   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1177   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1178   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1179   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1180   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1181   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1182   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1183   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1184   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1185   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1186   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1187   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1188   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1189   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1190   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1191   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1192   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1193   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1194   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1195   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1196   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1197   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1198   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1199   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1200   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1201   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1202   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1203   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1204   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1205   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1206   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1207   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1208   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1209   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1210   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1211   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1212   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1213   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1214   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1215   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1216   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1217   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1218   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1219   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1220   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1221   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1222   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1223   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1224   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1225   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1226   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1227   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1228   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1229   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1230   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1231   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1232   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1233   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1234   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1235   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1236   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1237   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1238   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1239   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1240   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1241   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1242   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1243   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1244   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1245   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1246   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1247   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1248   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1249   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1250   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1251   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1252   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1253   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1254   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1255   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1256   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1257   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1258   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1259   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1260   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1261   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1262   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1263   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1264   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1265   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1266   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1267   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1268   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1269   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1270   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1271   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1272   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1273   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1274   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1275   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1276   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1136   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1137   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1138   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1139   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1140   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1141   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1142   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1143   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1144   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1145   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1146   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1147   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1148   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1149   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1150   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1151   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1152   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1153   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1154   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1155   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1156   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1157   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1158   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1159   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1160   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1161   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1162   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1163   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1164   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1165   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1166   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1167   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1168   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1169   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1170   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1171   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1172   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1173   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1174   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1175   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1176   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1177   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1178   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1179   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1180   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1181   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1182   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1183   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1184   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1185   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1186   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1187   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1188   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1189   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1190   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1191   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1192   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1193   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1194   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1195   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1196   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1197   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1198   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1199   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1200   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1201   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1202   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1203   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1204   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1205   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1206   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1207   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1208   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1209   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1210   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1211   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1212   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1213   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1214   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1215   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1216   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1217   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1218   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1219   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1220   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1221   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1222   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1223   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1224   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1225   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1226   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1227   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1228   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1229   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1230   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1231   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1232   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1233   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1234   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1235   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1236   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1237   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1238   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1239   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1240   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1241   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1242   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1243   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1244   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1245   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1246   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1247   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1248   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1249   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1250   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1251   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1252   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1253   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1254   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1255   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1256   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1257   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1258   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1259   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1260   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1261   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1262   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1263   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1264   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1265   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1266   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1267   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1268   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1269   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1270   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1271   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1272   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1273   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1274   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1275   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1276   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1277   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1278   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1279   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1280   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1281   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1282   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1283   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1284   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1285   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1286   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1287   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1288   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1289   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1290   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1291   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1292   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1293   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1294   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1295   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1296   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1297   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1298   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1299   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1300   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1280   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1281   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1282   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1283   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1284   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1285   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1286   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1287   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1288   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1289   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1290   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1291   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1292   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1293   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1294   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1295   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1296   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1297   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1298   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1299   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1300   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
   1301   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1302   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1303   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1304   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1303   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1304   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
   1305   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1306   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1307   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
@@ -1311,85 +1311,85 @@
   1309   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1310   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1311   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1312   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1313   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1312   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1313   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1314   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1315   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1315   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1316   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1317   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1318   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1319   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1319   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1320   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1321   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1321   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
   1322   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1323   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1323   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
   1324   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1325   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1326   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1327   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1328   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1329   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1330   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1331   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1325   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1326   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1327   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1328   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1329   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1330   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1331   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
   1332   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1333   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1334   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1334   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
   1335   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1336   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
+  1336   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1337   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
   1338   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1339   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1340   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1341   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1342   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1339   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1340   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1341   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1342   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1343   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1344   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1345   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1346   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1347   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1348   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1349   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1350   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1351   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1352   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1353   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1354   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1355   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1356   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1357   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1358   itcFF_Zr      1    MOF    Zr      1     1.9680    91.2240
-  1359   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1360   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1361   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1362   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1363   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1344   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1345   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1346   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1347   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1348   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1349   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1350   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1351   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1352   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1353   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1354   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1355   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1356   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1357   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
+  1358   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1359   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
+  1360   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1361   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
+  1362   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
+  1363   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
   1364   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1365   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
   1366   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1367   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1368   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1369   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1370   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1371   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1372   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1373   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1374   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1375   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1376   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1377   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1378   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1379   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1380   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1381   itcFF_O1      1    MOF    O1      1    -0.5330    16.0000
-  1382   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1383   itcFF_C1      1    MOF    C1      1     0.6300    12.0110
-  1384   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1385   itcFF_C2      1    MOF    C2      1    -0.3660    12.0110
-  1386   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1387   itcFF_H1      1    MOF    H1      1     0.1310     1.0080
-  1388   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1389   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
-  1390   itcFF_O2      1    MOF    O2      1    -0.9020    16.0000
+  1367   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1368   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1369   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1370   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1371   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1372   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1373   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1374   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1375   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1376   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1377   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1378   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1379   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1380   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1381   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1382   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1383   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1384   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1385   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1386   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1387   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1388   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1389   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1390   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
   1391   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
   1392   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
   1393   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
@@ -1494,30 +1494,30 @@
   1492   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
   1493   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
   1494   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1495   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1496   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1497   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1498   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1499   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1500   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1501   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1502   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1503   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1504   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1505   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1506   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1507   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1508   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1509   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1510   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1511   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1512   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1513   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1514   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1515   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1516   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1517   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
-  1518   itcFF_H7      1    MOF    H7      1     0.1310     1.0080
+  1495     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1496     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1497     repl_O      1    MOF    O7      1    -0.8000    16.0000
+  1498     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1499     repl_O      1    MOF    O7      1    -0.8000    16.0000
+  1500     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1501     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1502     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1503     repl_O      1    MOF    O7      1    -0.8000    16.0000
+  1504     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1505     repl_O      1    MOF    O7      1    -0.8000    16.0000
+  1506     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1507     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1508     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1509     repl_O      1    MOF    O7      1    -0.8000    16.0000
+  1510     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1511     repl_O      1    MOF    O7      1    -0.8000    16.0000
+  1512     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1513     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1514     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1515     repl_O      1    MOF    O7      1    -0.8000    16.0000
+  1516     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1517     repl_O      1    MOF    O7      1    -0.8000    16.0000
+  1518     repl_H      1    MOF    H7      1     0.4000     1.0080
   1519     repl_H      1    MOF    H7      1     0.4000     1.0080
   1520     repl_H      1    MOF    H7      1     0.4000     1.0080
   1521     repl_O      1    MOF    O7      1    -0.8000    16.0000
@@ -1656,3 +1656,15 @@
   1654     repl_H      1    MOF    H7      1     0.4000     1.0080
   1655     repl_O      1    MOF    O7      1    -0.8000    16.0000
   1656     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1657     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1658     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1659     repl_O      1    MOF    O7      1    -0.8000    16.0000
+  1660     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1661     repl_O      1    MOF    O7      1    -0.8000    16.0000
+  1662     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1663     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1664     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1665     repl_O      1    MOF    O7      1    -0.8000    16.0000
+  1666     repl_H      1    MOF    H7      1     0.4000     1.0080
+  1667     repl_O      1    MOF    O7      1    -0.8000    16.0000
+  1668     repl_H      1    MOF    H7      1     0.4000     1.0080

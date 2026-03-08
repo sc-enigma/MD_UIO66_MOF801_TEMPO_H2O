@@ -27,14 +27,12 @@ bounds_c = [0.0, 2.5]
 
 # STEP 1. Preprocess data
 ### CASHING START ###
-'''
 atoms = mol2_to_atoms(read_mol2_file('__source_mof801_444.mol2'))
 atoms = shift_atoms(atoms, np.array([-4.4587, -4.4587, -4.4587]))
 atoms = define_mof801_atom_types(atoms)
 atoms = define_mof801_atom_names(atoms)
 check_mof801_atom_names(atoms)
 write_mol2_file(atoms, '__tmp/mof801_source_processed1.mol2', 44.5870, 44.5870, 44.5870, alpha, beta, gamma, True)
-'''
 ### CASHING END ###
 
 ### SELECTION START ###
@@ -65,8 +63,16 @@ with open('__tmp/atoms_mof801.pickle', 'rb') as handle:
     
 # STEP 2. Remove some linkers
 linkers = find_linkers(atoms, ['Zr', 'O1', 'O2'], 6)
-ids_linkers_to_remove = np.unique([random.randint(0, len(linkers)-1) for _ in range(int(len(linkers) * 0.25))])
+ids_linkers_to_remove = random.sample(range(0, len(linkers)), int(0.25 * len(linkers)))
 ids_atoms_to_remove = list(itertools.chain.from_iterable([linkers[i] for i in ids_linkers_to_remove]))
+# Must remain [150, 472, 46, 307, 50, 41, 1031, 666]
+for idx in [150, 472, 46, 307, 50, 41, 1031, 666, 48]:
+    if idx in ids_linkers_to_remove:
+        ids_linkers_to_remove.remove(idx)
+# May be removed [89, 91, 93, 48]
+for idx in [89, 91, 93]:
+    if not idx in ids_linkers_to_remove:
+        ids_linkers_to_remove.append(idx)
 for i in ids_linkers_to_remove:
     connected_oxygens = find_connected_atoms(atoms, ['O1'], linkers[i])
     atoms = add_h(atoms, connected_oxygens[0][0], ids_atoms_to_remove)
@@ -88,4 +94,3 @@ write_angles(atoms, angle_params, 'angles.itp')
 write_dihedrals(atoms, dihedral_params, 'dihedrals.itp')
 write_restraints(atoms, ['itcFF_Zr'], 'restraints.itp', 5000)
 compose_itp_files(['moleculetype.itp', 'atoms.itp', 'bonds.itp', 'angles.itp', 'dihedrals.itp', 'restraints.itp'], 'mof801.itp')
-
