@@ -65,7 +65,7 @@ with open('__tmp/atoms_uio66.pickle', 'rb') as handle:
 
 # STEP 2. Remove some linkers
 linkers = find_linkers(atoms, ['Zr', 'O1', 'O3'], 12)
-ids_linkers_to_remove = random.sample(range(0, len(linkers)), int(0.3 * len(linkers)))
+ids_linkers_to_remove = random.sample(range(0, len(linkers)), int(0.25 * len(linkers)))
 # Must remain [1, 9, 16, 17, 18, 19, 61, 74]
 for idx in [1, 9, 16, 17, 18, 19, 61, 74, 60]:
     if idx in ids_linkers_to_remove:
