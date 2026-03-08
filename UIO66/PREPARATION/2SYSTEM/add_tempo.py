@@ -14,7 +14,7 @@ alpha = 90.00 / 180 * np.pi
 beta  = 90.00 / 180 * np.pi
 gamma = 90.00 / 180 * np.pi
 
-atoms_mof801 = mol2_to_atoms(read_mol2_file('uio66/3_D/uio66.mol2'))
+atoms_mof801 = mol2_to_atoms(read_mol2_file('uio66/0/uio66.mol2'))
 atoms_tempo = mol2_to_atoms(read_mol2_file('tempo/tempo.mol2'))
 
 atoms_mof801 = set_residue(atoms_mof801, "MOF")
@@ -23,5 +23,5 @@ atoms_tempo = shift_atoms(atoms_tempo, np.array([13.8565, 13.8565, 24.2298]) - a
 
 atoms = add_atoms(atoms_mof801, atoms_tempo)
 
-write_mol2_file(atoms, 'uio66+tempo/3_D/uio66_tempo.mol2', a, b, c, alpha, beta, gamma)
-write_gro_file(atoms, 'uio66+tempo/3_D/uio66_tempo.gro', a, b, c, alpha, beta, gamma)
+write_mol2_file(atoms, 'uio66+tempo/0/uio66_tempo.mol2', a, b, c, alpha, beta, gamma)
+write_gro_file(atoms, 'uio66+tempo/0/uio66_tempo.gro', a, b, c, alpha, beta, gamma)
