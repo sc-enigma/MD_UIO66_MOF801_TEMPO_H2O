@@ -65,8 +65,17 @@ with open('__tmp/atoms_uio66.pickle', 'rb') as handle:
 
 # STEP 2. Remove some linkers
 linkers = find_linkers(atoms, ['Zr', 'O1', 'O3'], 12)
-ids_linkers_to_remove = np.unique([random.randint(0, len(linkers)-1) for _ in range(int(len(linkers) * 0.25))])
+ids_linkers_to_remove = random.sample(range(0, len(linkers)), int(0.3 * len(linkers)))
+# Must remain [1, 9, 16, 17, 18, 19, 61, 74]
+for idx in [1, 9, 16, 17, 18, 19, 61, 74, 60]:
+    if idx in ids_linkers_to_remove:
+        ids_linkers_to_remove.remove(idx)
+# May be removed [0, 6, 73, 60]
+for idx in [0, 6, 73]:
+    if not idx in ids_linkers_to_remove:
+        ids_linkers_to_remove.append(idx)
 ids_atoms_to_remove = list(itertools.chain.from_iterable([linkers[i] for i in ids_linkers_to_remove]))
+# Add h / oh groups
 for i in ids_linkers_to_remove:
     connected_oxygens = find_connected_atoms(atoms, ['O1'], linkers[i])
     atoms = add_h(atoms, connected_oxygens[0][0], ids_atoms_to_remove)
@@ -74,6 +83,7 @@ for i in ids_linkers_to_remove:
     atoms = add_oh(atoms, connected_oxygens[0][1], ids_atoms_to_remove)
     atoms = add_oh(atoms, connected_oxygens[1][1], ids_atoms_to_remove)
 atoms = remove_atoms(atoms, ids_atoms_to_remove)
+# Center of pore (13.8565, 13.8565, 24.2298)
 
 # STEP 3. Write .gro and .mol2 files
 write_gro_file(atoms, 'uio66.gro', 38, 38, 38, alpha, beta, gamma)
