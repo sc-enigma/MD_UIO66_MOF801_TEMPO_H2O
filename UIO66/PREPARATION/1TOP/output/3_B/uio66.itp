@@ -5,77 +5,77 @@ UIO                    3
 [ atoms ]
 ;   nr       type  resnr residue  atom   cgnr     charge       mass
      1  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-     2  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-     3  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-     4  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+     2  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+     3  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+     4  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
      5  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
      6  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
      7  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-     8  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+     8  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
      9  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
     10  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-    11  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    11  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     12  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
     13  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     14  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-    15  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+    15  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
     16  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-    17  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    17  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     18  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-    19  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    19  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     20  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
     21  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     22  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-    23  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+    23  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
     24  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-    25  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    25  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     26  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-    27  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-    28  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    27  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+    28  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     29  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
     30  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     31  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
     32  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
     33  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-    34  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-    35  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    34  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+    35  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     36  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
     37  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     38  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
     39  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
     40  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-    41  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    41  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     42  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     43  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-    44  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-    45  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-    46  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-    47  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    44  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+    45  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+    46  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+    47  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     48  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     49  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-    50  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-    51  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-    52  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-    53  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    50  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+    51  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+    52  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+    53  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     54  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     55  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-    56  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-    57  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    56  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+    57  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     58  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     59  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-    60  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-    61  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    60  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+    61  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     62  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
     63  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     64  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
     65  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-    66  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-    67  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    66  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+    67  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     68  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     69  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-    70  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-    71  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-    72  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    70  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+    71  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+    72  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     73  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     74  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
     75  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -91,81 +91,81 @@ UIO                    3
     85  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     86  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     87  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-    88  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-    89  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+    88  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+    89  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
     90  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-    91  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    91  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     92  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
     93  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
     94  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-    95  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+    95  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
     96  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-    97  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+    97  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
     98  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
     99  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    100  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    101  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    102  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   103  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   103  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    104  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    105  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    106  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   107  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   107  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    108  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   109  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   109  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    110  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    111  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    112  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    113  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    114  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   115  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   115  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    116  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    117  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    118  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    119  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    120  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   121  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   121  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    122  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    123  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    124  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    125  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    126  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   127  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   127  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    128  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    129  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   130  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   131  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   130  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   131  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    132  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    133  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   134  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   135  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   136  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   137  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   134  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   135  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   136  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   137  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    138  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    139  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   140  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   140  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    141  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    142  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   143  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   143  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    144  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    145  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   146  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   146  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    147  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    148  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   149  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   149  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    150  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    151  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    152  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    153  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   154  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   154  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    155  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    156  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    157  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    158  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   159  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   159  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    160  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    161  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   162  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   162  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    163  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    164  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    165  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -185,69 +185,69 @@ UIO                    3
    179  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    180  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    181  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   182  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   182  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    183  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    184  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    185  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   186  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   186  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    187  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   188  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   188  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    189  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    190  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    191  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   192  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   192  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    193  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    194  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   195  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   196  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   195  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   196  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    197  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   198  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   198  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    199  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    200  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    201  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   202  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   202  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    203  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    204  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
    205  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   206  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   206  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    207  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    208  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    209  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    210  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   211  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   211  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    212  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   213  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   214  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   213  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   214  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    215  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    216  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   217  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   218  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   219  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   220  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   221  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   217  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   218  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   219  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   220  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   221  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    222  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    223  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   224  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   225  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   224  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   225  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    226  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    227  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    228  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    229  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   230  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   230  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    231  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    232  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   233  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   233  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    234  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    235  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   236  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   236  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    237  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    238  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    239  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    240  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   241  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   241  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    242  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    243  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   244  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   244  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    245  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    246  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    247  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -263,109 +263,109 @@ UIO                    3
    257  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    258  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    259  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   260  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   261  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   260  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   261  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    262  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   263  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   264  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   263  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   264  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    265  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    266  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    267  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    268  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    269  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   270  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   270  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    271  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    272  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    273  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   274  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   274  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    275  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    276  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
    277  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   278  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   278  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    279  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   280  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   281  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   282  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   283  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   284  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   285  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   280  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   281  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   282  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   283  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   284  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   285  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    286  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    287  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   288  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   288  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    289  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    290  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   291  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   292  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   293  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   294  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   291  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   292  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   293  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   294  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    295  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    296  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    297  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    298  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    299  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   300  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   301  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   300  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   301  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    302  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    303  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    304  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   305  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   305  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    306  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    307  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   308  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   308  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    309  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   310  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   311  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   312  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   310  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   311  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   312  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    313  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    314  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    315  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    316  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    317  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   318  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   318  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    319  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    320  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    321  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    322  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   323  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   323  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    324  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   325  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   325  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    326  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    327  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    328  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    329  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   330  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   330  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    331  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    332  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    333  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    334  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    335  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   336  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   337  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   338  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   336  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   337  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   338  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    339  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    340  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   341  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   342  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   341  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   342  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    343  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    344  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   345  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   346  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   345  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   346  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    347  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    348  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   349  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   350  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   349  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   350  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    351  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    352  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   353  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   354  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   353  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   354  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    355  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    356  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   357  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   357  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    358  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    359  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    360  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    361  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   362  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   362  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    363  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    364  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    365  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -381,51 +381,51 @@ UIO                    3
    375  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    376  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    377  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   378  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   379  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   378  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   379  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    380  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   381  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   381  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    382  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   383  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   383  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    384  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    385  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    386  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   387  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   387  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    388  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   389  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   389  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    390  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    391  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    392  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    393  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    394  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   395  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   395  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    396  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   397  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   397  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    398  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    399  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    400  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    401  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    402  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   403  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   404  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   405  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   403  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   404  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   405  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    406  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    407  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   408  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   409  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   410  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   411  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   408  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   409  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   410  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   411  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    412  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    413  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   414  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   414  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    415  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    416  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   417  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   417  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    418  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    419  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    420  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    421  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   422  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   422  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    423  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    424  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    425  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -437,57 +437,57 @@ UIO                    3
    431  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    432  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    433  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   434  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   435  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   434  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   435  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    436  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    437  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    438  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   439  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   439  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    440  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    441  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   442  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   442  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    443  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   444  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   444  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    445  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    446  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    447  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   448  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   448  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    449  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    450  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
    451  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   452  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   452  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    453  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    454  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    455  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    456  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   457  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   457  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    458  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    459  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    460  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    461  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    462  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   463  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   464  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   463  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   464  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    465  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    466  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   467  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   468  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   467  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   468  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    469  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    470  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   471  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   472  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   473  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   471  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   472  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   473  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    474  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    475  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   476  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   476  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    477  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    478  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   479  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   479  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    480  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    481  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    482  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    483  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   484  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   484  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    485  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    486  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    487  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -501,87 +501,87 @@ UIO                    3
    495  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    496  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    497  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   498  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   499  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   498  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   499  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    500  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   501  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   501  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    502  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   503  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   503  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    504  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    505  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    506  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   507  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   507  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    508  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    509  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
    510  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   511  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   511  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    512  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    513  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    514  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    515  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    516  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   517  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   518  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   517  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   518  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    519  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    520  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   521  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   522  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   523  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   524  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   521  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   522  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   523  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   524  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    525  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    526  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   527  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   528  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   527  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   528  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    529  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    530  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    531  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    532  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    533  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   534  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   534  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    535  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    536  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    537  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   538  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   538  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    539  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   540  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   540  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    541  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    542  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    543  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   544  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   544  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    545  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    546  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   547  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   547  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    548  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    549  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    550  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   551  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   551  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    552  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    553  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   554  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   555  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   554  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   555  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    556  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    557  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    558  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    559  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    560  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   561  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   561  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    562  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
    563  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   564  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   565  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   566  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   567  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   568  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   569  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   564  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   565  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   566  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   567  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   568  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   569  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    570  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    571  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   572  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   572  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    573  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    574  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   575  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   575  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    576  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    577  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   578  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   578  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    579  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    580  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    581  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -593,65 +593,65 @@ UIO                    3
    587  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    588  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    589  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   590  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   591  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   592  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   593  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   590  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   591  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   592  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   593  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    594  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   595  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   595  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    596  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    597  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    598  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   599  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   599  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    600  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    601  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   602  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   603  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   602  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   603  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    604  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    605  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    606  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    607  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    608  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   609  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   609  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    610  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    611  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    612  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   613  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   613  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    614  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    615  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    616  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    617  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
    618  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   619  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   619  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    620  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   621  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   622  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   623  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   624  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   621  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   622  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   623  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   624  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    625  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   626  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   627  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   626  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   627  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    628  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    629  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   630  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   630  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    631  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    632  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   633  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   633  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    634  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    635  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    636  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    637  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   638  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   639  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   640  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   638  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   639  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   640  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    641  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    642  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    643  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    644  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   645  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   645  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    646  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    647  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   648  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   648  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    649  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    650  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    651  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -663,59 +663,59 @@ UIO                    3
    657  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    658  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    659  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   660  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   661  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   662  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   660  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   661  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   662  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    663  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    664  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    665  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   666  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   666  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    667  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    668  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   669  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   669  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    670  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    671  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    672  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   673  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   673  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    674  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   675  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   675  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    676  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   677  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   678  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   679  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   677  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   678  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   679  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    680  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    681  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    682  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    683  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    684  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   685  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   685  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    686  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    687  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    688  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    689  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   690  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   690  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    691  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    692  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    693  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    694  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   695  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   696  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   697  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   695  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   696  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   697  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    698  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   699  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   700  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   699  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   700  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    701  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   702  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   703  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   702  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   703  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    704  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    705  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   706  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   706  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    707  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    708  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   709  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   710  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   711  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   712  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   709  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   710  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   711  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   712  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    713  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    714  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    715  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -725,75 +725,75 @@ UIO                    3
    719  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    720  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    721  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   722  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   723  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   724  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   722  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   723  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   724  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    725  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    726  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    727  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   728  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   728  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    729  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    730  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   731  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   731  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    732  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    733  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    734  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   735  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   735  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    736  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   737  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   737  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    738  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   739  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   739  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    740  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    741  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    742  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   743  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   743  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    744  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   745  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   745  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    746  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    747  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    748  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    749  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    750  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   751  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   752  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   751  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   752  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    753  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   754  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   755  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   754  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   755  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    756  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    757  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    758  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    759  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   760  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   761  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   762  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   763  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   764  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   760  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   761  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   762  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   763  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   764  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    765  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   766  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   767  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   768  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   769  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   766  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   767  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   768  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   769  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    770  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    771  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   772  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   772  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    773  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    774  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   775  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   775  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    776  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    777  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   778  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   779  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   778  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   779  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    780  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    781  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    782  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    783  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   784  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   785  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   784  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   785  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    786  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    787  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   788  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   789  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   790  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   788  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   789  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   790  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    791  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    792  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    793  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -807,39 +807,39 @@ UIO                    3
    801  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    802  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    803  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   804  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   805  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   804  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   805  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    806  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    807  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    808  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   809  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   809  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    810  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    811  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   812  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   812  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    813  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   814  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   815  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   814  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   815  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    816  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    817  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    818  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    819  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    820  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   821  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   821  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    822  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    823  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    824  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    825  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
    826  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   827  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   828  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   829  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   830  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   827  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   828  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   829  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   830  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    831  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   832  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   833  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   832  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   833  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    834  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    835  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   836  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   836  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    837  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    838  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    839  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -847,97 +847,97 @@ UIO                    3
    841  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    842  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    843  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   844  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   845  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   844  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   845  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    846  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    847  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    848  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   849  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   849  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    850  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    851  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   852  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   852  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    853  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   854  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   855  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   854  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   855  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    856  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    857  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    858  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    859  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    860  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   861  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   861  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    862  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    863  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    864  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   865  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   865  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    866  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    867  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    868  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    869  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
    870  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   871  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   871  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    872  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   873  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   874  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   875  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   876  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   873  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   874  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   875  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   876  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    877  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   878  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   879  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   878  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   879  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    880  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    881  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   882  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   882  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    883  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    884  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   885  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   886  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   885  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   886  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    887  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    888  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    889  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    890  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    891  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   892  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   893  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   892  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   893  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    894  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    895  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    896  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   897  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   897  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    898  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    899  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   900  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   900  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    901  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   902  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   902  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    903  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    904  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    905  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   906  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   906  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    907  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   908  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   908  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    909  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    910  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    911  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    912  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    913  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   914  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   914  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    915  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    916  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    917  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    918  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   919  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   919  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    920  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   921  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   922  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   923  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   924  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   925  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   921  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   922  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   923  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   924  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   925  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    926  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   927  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   928  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   927  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   928  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    929  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    930  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   931  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   931  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    932  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    933  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   934  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   934  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    935  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    936  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    937  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -947,168 +947,168 @@ UIO                    3
    941  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    942  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    943  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   944  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   945  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   946  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   944  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   945  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   946  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    947  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   948  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   948  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    949  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   950  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   951  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   952  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   950  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   951  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   952  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    953  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    954  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    955  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    956  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    957  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   958  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   958  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    959  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    960  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    961  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   962  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   962  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    963  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    964  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    965  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
    966  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   967  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   967  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    968  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
    969  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
    970  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-   971  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   971  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    972  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   973  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   973  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    974  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   975  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   976  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   975  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   976  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    977  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   978  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   979  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   980  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   981  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   978  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   979  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   980  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   981  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    982  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   983  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   984  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   983  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   984  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    985  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    986  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-   987  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   988  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   989  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   990  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   987  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   988  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   989  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   990  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
    991  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    992  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
    993  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   994  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   995  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-   996  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+   994  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   995  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+   996  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
    997  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-   998  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-   999  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1000  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+   998  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+   999  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1000  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1001  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1002  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1003  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1004  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1005  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1005  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1006  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1007  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1007  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1008  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1009  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1010  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1011  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1012  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1013  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1013  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1014  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1015  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1016  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1017  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1018  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1019  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1020  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1021  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1019  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1020  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1021  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1022  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1023  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1024  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1025  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1024  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1025  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1026  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1027  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1028  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1029  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1030  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1028  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1029  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1030  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1031  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1032  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1032  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1033  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1034  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1035  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1036  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1037  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1038  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1038  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1039  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1040  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1041  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1041  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1042  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1043  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1043  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1044  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1045  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1045  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1046  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1047  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1048  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1048  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1049  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1050  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1050  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1051  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1052  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1053  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1054  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1055  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1055  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1056  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1057  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1057  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1058  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1059  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1060  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1061  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1062  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1062  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1063  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1064  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1065  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1066  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1067  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1068  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1068  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1069  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1070  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1071  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1072  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1073  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1073  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1074  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1075  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1076  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1077  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1078  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1079  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1079  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1080  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1081  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1082  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1083  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1082  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1083  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1084  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1085  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1086  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1087  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1086  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1087  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1088  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1089  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1090  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1091  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1090  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1091  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1092  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1093  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1094  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1095  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1094  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1095  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1096  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1097  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1097  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1098  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1099  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1099  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1100  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1101  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1102  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1103  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1103  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1104  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1105  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1105  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1106  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1107  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1108  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -1119,230 +1119,230 @@ UIO                    3
   1113  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1114  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1115  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1116  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1116  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1117  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1118  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1119  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1119  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1120  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1121  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1121  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1122  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1123  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1124  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1123  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1124  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1125  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1126  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1127  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1128  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1129  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1129  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1130  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
   1131  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1132  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1132  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1133  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1134  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1135  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1136  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1137  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1138  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1139  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1140  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1138  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1139  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1140  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1141  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1142  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1143  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1144  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1145  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1143  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1144  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1145  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1146  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1147  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1147  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1148  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1149  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1150  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1151  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1152  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1153  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1154  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1152  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1153  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1154  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1155  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1156  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1157  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1156  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1157  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1158  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1159  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1160  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1161  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1162  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1162  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1163  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
   1164  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1165  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1165  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1166  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1167  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1168  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1169  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1170  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1170  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1171  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1172  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1173  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1174  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1175  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1176  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1177  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1176  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1177  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1178  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1179  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1180  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1181  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1180  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1181  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1182  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1183  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1184  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1185  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1186  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1184  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1185  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1186  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1187  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1188  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1188  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1189  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1190  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1191  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1192  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1193  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1192  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1193  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1194  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1195  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1196  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1197  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1198  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1199  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1200  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1200  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1201  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1202  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1203  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1203  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1204  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1205  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1205  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1206  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1207  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1208  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1208  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1209  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1210  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1211  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1211  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1212  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1213  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1214  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1214  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1215  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1216  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1216  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1217  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1218  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1219  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1220  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1221  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1221  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1222  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1223  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1224  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1224  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1225  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1226  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1226  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1227  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1228  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1228  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1229  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1230  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1231  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1232  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1233  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1234  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1234  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1235  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1236  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1237  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1238  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1239  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1240  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1241  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1242  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1240  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1241  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1242  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1243  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1244  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1245  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1246  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1245  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1246  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1247  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1248  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1249  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1250  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1249  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1250  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1251  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1252  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1253  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1252  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1253  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1254  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1255  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1255  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1256  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1257  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1257  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1258  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1259  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1259  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1260  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1261  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1262  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1263  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1264  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1265  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1266  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1266  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1267  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1268  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1269  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1269  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1270  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1271  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1271  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1272  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1273  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1274  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1274  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1275  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1276  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1277  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1278  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1279  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1277  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1278  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1279  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1280  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1281  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1282  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1283  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1284  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1284  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1285  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1286  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1287  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1287  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1288  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1289  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1289  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1290  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1291  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1291  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1292  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1293  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1294  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1295  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1296  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1296  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1297  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1298  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1298  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1299  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1300  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1301  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1302  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1303  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1303  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1304  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1305  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1306  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1307  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1308  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1309  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1310  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1311  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1309  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1310  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1311  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1312  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1313  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1314  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1315  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1314  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1315  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1316  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1317  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1318  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1319  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1318  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1319  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1320  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1321  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1322  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1323  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1324  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1325  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1322  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1323  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1324  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1325  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1326  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1327  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1327  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1328  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1329  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1329  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1330  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1331  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1332  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1333  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1333  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1334  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1335  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1335  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1336  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1337  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1338  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1339  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1337  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1338  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1339  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1340  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1341  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1342  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
@@ -1351,499 +1351,499 @@ UIO                    3
   1345  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1346  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1347  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1348  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1348  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1349  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1350  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1351  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1351  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1352  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1353  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1353  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1354  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1355  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1356  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1356  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1357  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1358  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1359  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1360  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1359  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1360  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1361  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1362  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1363  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1364  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1365  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1365  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1366  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1367  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1368  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1368  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1369  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1370  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
   1371  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1372  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1372  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1373  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1374  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1375  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1376  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1377  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1378  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1379  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1380  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1378  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1379  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1380  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1381  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1382  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1383  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1384  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1385  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1383  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1384  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1385  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1386  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1387  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1387  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1388  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1389  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1389  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1390  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1391  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1391  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1392  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1393  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1394  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1395  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1396  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1397  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1398  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1399  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1396  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1397  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1398  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1399  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1400  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1401  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1402  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1401  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1402  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1403  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1404  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1405  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1406  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1407  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1407  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1408  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1409  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1410  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1410  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1411  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1412  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
   1413  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1414  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1414  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1415  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1416  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1417  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1418  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1419  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1419  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1420  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1421  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1422  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1423  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1424  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1425  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1426  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1425  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1426  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1427  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1428  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1429  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1430  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1429  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1430  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1431  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1432  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1433  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1434  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1435  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1433  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1434  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1435  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1436  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1437  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1437  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1438  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1439  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1439  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1440  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1441  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1442  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1443  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1444  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1445  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1443  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1444  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1445  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1446  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1447  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1448  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1449  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1449  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1450  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1451  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1451  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1452  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1453  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1454  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1455  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1456  flexFF_C3      1    UIO    C3      1    -0.0650    12.0110
   1457  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1458  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1458  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1459  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1460  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1461  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1461  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1462  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1463  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1463  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1464  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1465  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1465  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1466  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1467  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1468  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1468  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1469  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1470  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1471  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1471  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1472  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1473  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1473  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1474  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1475  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1476  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1477  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1477  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1478  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1479  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1480  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1481  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
   1482  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1483  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1483  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1484  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1485  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1486  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1487  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1488  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1485  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1486  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1487  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1488  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1489  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1490  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1491  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1490  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1491  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1492  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1493  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1493  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1494  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1495  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1496  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1497  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1497  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1498  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1499  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1499  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1500  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1501  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1502  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1503  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1502  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1503  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1504  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1505  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1505  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1506  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1507  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1508  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1508  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1509  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1510  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1511  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1511  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1512  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1513  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1513  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1514  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1515  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1516  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1517  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
   1518  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1519  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1519  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1520  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1521  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1522  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1523  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1524  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1525  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1521  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1522  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1523  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1524  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1525  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1526  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1527  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1528  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1527  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1528  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1529  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1530  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1531  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1532  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1530  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1531  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1532  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1533  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1534  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1534  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1535  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1536  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1537  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1537  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1538  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1539  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1539  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1540  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1541  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1541  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1542  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1543  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1543  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1544  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1545  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1546  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1547  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1547  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1548  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1549  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1550  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1551  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1552  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1552  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1553  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1554  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1555  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1556  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1556  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1557  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1558  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1559  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1560  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1561  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1561  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1562  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1563  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1564  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1563  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1564  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1565  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1566  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1567  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1566  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1567  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1568  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1569  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1570  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1569  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1570  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1571  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1572  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1573  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1572  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1573  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1574  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1575  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1576  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1575  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1576  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1577  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1578  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1579  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1580  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1581  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1580  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1581  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1582  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1583  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1584  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1585  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1584  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1585  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1586  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1587  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1587  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1588  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1589  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1590  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1590  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1591  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1592  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1592  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1593  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1594  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1595  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1596  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1597  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1597  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1598  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1599  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1599  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1600  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1601  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1602  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1603  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1604  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1604  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1605  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1606  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1607  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1608  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1609  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1609  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1610  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1611  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1612  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1611  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1612  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1613  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1614  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1615  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1616  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1617  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1614  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1615  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1616  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1617  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1618  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1619  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1619  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1620  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1621  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1621  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1622  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1623  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1624  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1625  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1625  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1626  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1627  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1628  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1629  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1630  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1628  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1629  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1630  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1631  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1632  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1633  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1633  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1634  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1635  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1636  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1637  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1636  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1637  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1638  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1639  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1640  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1639  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1640  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1641  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1642  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1642  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1643  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1644  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1645  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1646  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1646  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1647  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1648  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1649  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1650  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
   1651  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1652  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1652  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1653  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1654  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1655  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1656  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1657  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1654  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1655  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1656  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1657  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1658  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1659  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1660  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1661  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1662  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1659  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1660  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1661  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1662  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1663  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1664  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1665  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1666  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1667  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1666  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1667  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1668  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1669  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1669  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1670  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1671  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1672  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1673  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1673  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1674  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1675  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1675  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1676  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1677  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1678  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1679  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1678  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1679  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1680  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1681  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1681  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1682  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1683  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1684  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1684  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1685  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1686  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1687  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1688  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1687  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1688  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1689  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1690  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1691  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1692  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1693  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1693  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1694  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1695  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1696  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1697  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
   1698  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1699  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1699  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1700  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1701  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1702  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1703  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1704  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1705  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1701  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1702  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1703  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1704  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1705  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1706  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1707  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1707  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1708  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1709  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1709  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1710  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1711  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1712  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1713  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1714  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1715  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1713  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1714  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1715  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1716  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1717  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1718  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1719  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1720  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1718  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1719  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1720  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1721  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1722  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1723  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1723  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1724  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1725  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1726  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1726  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1727  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1728  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1729  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1729  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1730  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1731  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1731  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1732  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1733  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1734  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1735  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1736  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1736  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1737  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1738  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1739  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1739  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1740  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1741  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1741  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1742  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1743  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1743  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1744  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1745  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1746  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1747  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1747  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1748  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1749  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1750  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1751  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1752  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1752  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1753  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1754  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1755  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1756  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1756  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1757  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1758  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1758  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1759  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1760  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1761  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1760  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1761  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1762  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1763  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1764  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1765  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1766  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1763  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1764  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1765  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1766  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1767  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1768  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1769  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1768  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1769  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1770  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1771  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1772  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1771  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1772  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1773  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1774  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1774  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1775  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1776  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1776  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1777  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1778  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1779  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1780  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1781  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1780  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1781  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1782  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1783  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1784  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1785  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1783  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1784  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1785  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1786  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1787  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1788  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1789  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1788  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1789  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1790  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1791  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1791  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1792  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1793  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1794  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1794  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1795  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1796  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1796  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1797  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1798  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1799  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1800  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1801  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1801  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1802  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1803  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1804  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
+  1804  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
   1805  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
-  1806  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1806  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1807  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1808  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1809  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1810  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1811  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1811  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1812  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1813  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1814  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1815  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1816  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1816  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1817  flexFF_C2      1    UIO    C2      1    -0.0820    12.0110
   1818  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
   1819  flexFF_C1      1    UIO    C1      1     0.6300    12.0110
   1820  flexFF_Zr      1    UIO    Zr      1     1.9680    91.2240
-  1821  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1821  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1822  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1823  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1824  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1823  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1824  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1825  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1826  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1827  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1828  flexFF_O3      1    UIO    O3      1    -0.9020    16.0000
-  1829  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1826  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1827  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1828  flexFF_O3      1    UIO    O3      1    -0.9253    16.0000
+  1829  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1830  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1831  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1831  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1832  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1833  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1833  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1834  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1835  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1835  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1836  flexFF_H1      1    UIO    H1      1     0.1330     1.0080
-  1837  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1838  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1839  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
-  1840  flexFF_O1      1    UIO    O1      1    -0.5330    16.0000
+  1837  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1838  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1839  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
+  1840  flexFF_O1      1    UIO    O1      1    -0.586    16.0000
   1841     repl_H      1    UIO    H7      1     0.4000     1.0080
   1842     repl_H      1    UIO    H7      1     0.4000     1.0080
   1843     repl_O      1    UIO    O7      1    -0.8000    16.0000

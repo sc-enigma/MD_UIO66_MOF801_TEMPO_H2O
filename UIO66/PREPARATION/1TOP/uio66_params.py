@@ -17,12 +17,12 @@ def get_uio66_params():
     charge['flexFF_C1'] = 0.630
     charge['flexFF_C2'] = -0.082
     charge['flexFF_C3'] = -0.065
-    charge['flexFF_O1'] = -0.533
-    charge['flexFF_O3'] = -0.902
+    charge['flexFF_O1'] = -0.586
+    charge['flexFF_O3'] = -0.9253
     charge['flexFF_H1'] =  0.133
     charge['repl_H']    =  0.4
     charge['repl_O']    = -0.8
-
+    
     # [atom_type-atom_type] = [funct, r0, k]
     bond_params = {}
     bond_params['flexFF_Zr-flexFF_O3'] = [1, 0.2098, 107733.800]
