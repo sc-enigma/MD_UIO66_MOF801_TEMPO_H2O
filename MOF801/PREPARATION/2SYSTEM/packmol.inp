@@ -1,0 +1,19 @@
+tolerance 1.8 
+filetype pdb
+output mof801_tempo_h2o.pdb
+pbc 33.6700 33.6700 33.6700
+
+structure mof801_tempo.pdb 
+  number 1
+  fixed 0. 0. 0. 0. 0. 0.
+end structure
+
+structure tip4p.pdb
+  number 405
+  inside cube 3.45 3.45 3.45 27.041
+end structure
+
+structure tip4p.pdb
+  number 457
+  outside cube 3.45 3.45 3.45 27.041
+end structure
