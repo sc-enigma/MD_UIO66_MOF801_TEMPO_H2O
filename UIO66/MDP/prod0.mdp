@@ -19,7 +19,7 @@ nstlog                   = 0
 nstcalcenergy            = 100       ; 0.1 ps
 nstenergy                = 0
 nstxout-compressed       = 100       ; 0.1 ps
-energygrps               = UIO  TMP  SOL
+energygrps               = UIO  TMP
 
 
 ; NEIGHBORSEARCHING PARAMETERS
@@ -51,9 +51,9 @@ ewald_rtol               = 1e-05
 ; OPTIONS FOR WEAK COUPLING ALGORITHMS
 ; Temperature coupling  
 tcoupl                   = v-rescale
-tc-grps                  = UIO  TMP  SOL
-tau_t                    = 1.0  1.0  1.0
-ref_t                    = 278  278  278
+tc-grps                  = UIO  TMP
+tau_t                    = 1.0  1.0
+ref_t                    = 278  278
 
 
 ; PRESSURE COUPLING     
