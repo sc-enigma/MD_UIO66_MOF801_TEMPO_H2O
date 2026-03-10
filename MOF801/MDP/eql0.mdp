@@ -4,28 +4,23 @@ define                   =
 
 
 ; RUN CONTROL PARAMETERS
-integrator               = steep
+integrator               = md
 dt                       = 0.001
-nsteps                   = 100000
+nsteps                   = 1000000   ; 1 ns
 comm-mode                = Linear
-nstcomm                  = 20
-comm-grps                = 
-
-
-; ENERGY MINIMIZATION OPTIONS
-emtol                    = 100
-emstep                   = 0.001
+nstcomm                  = 100       ; 0.1 ps
+comm-grps                =
 
 
 ; OUTPUT CONTROL OPTIONS
-nstxout                  = 10
+nstxout                  = 0
 nstvout                  = 0
 nstfout                  = 0
-nstlog                   = 1000
-nstcalcenergy            = 20
-nstenergy                = 1000
-nstxout-compressed       = 100
-energygrps               = 
+nstlog                   = 0
+nstcalcenergy            = 100       ; 0.1 ps
+nstenergy                = 0
+nstxout-compressed       = 100       ; 0.1 ps
+energygrps               = MOF  TMP
 
 
 ; NEIGHBORSEARCHING PARAMETERS
@@ -33,7 +28,7 @@ cutoff-scheme            = Verlet
 nstlist                  = 40
 ns_type                  = grid
 pbc                      = xyz
-periodic-molecules       = yes
+periodic-molecules       = no
 verlet-buffer-tolerance  = 0.0001
 rlist                    = 1.4
 
@@ -57,12 +52,12 @@ ewald_rtol               = 1e-05
 ; OPTIONS FOR WEAK COUPLING ALGORITHMS
 ; Temperature coupling  
 tcoupl                   = v-rescale
-tc-grps                  = System
-tau_t                    = 1.0
-ref_t                    = yes
+tc-grps                  = MOF  TMP
+tau_t                    = 1.0  1.0
+ref_t                    = 278  278
 
 
-; PRESSURE COUPLING     
+; PRESSURE COUPLING coupling     
 pcoupl                   = no
 
 
@@ -73,7 +68,8 @@ gen-seed                 = 3532
 
 
 ; OPTIONS FOR BONDS    
-constraints              = none
+constraints              = h-bonds
+constraint_algorithm     = lincs
 
 
 ; ENERGY GROUP EXCLUSIONS

@@ -6,26 +6,20 @@ define                   =
 ; RUN CONTROL PARAMETERS
 integrator               = md
 dt                       = 0.001
-nsteps                   = 100000000  ; 100 ns
+nsteps                   = 100000000 ; 100 ns
 comm-mode                = Linear
-nstcomm                  = 20
-comm-grps                = TMP
-
-
-; ENERGY MINIMIZATION OPTIONS
-emtol                    = 100
-emstep                   = 0.001
+nstcomm                  = 100
 
 
 ; OUTPUT CONTROL OPTIONS
-nstxout                  = 100       ; 0.1 ps
-nstvout                  = 1000      ; 1 ps
+nstxout                  = 0
+nstvout                  = 0
 nstfout                  = 0
-nstlog                   = 1000      ; 1 ps
-nstcalcenergy            = 20
-nstenergy                = 1000      ; 1 ps
+nstlog                   = 0
+nstcalcenergy            = 100       ; 0.1 ps
+nstenergy                = 0
 nstxout-compressed       = 100       ; 0.1 ps
-energygrps               = TMP
+energygrps               = MOF  TMP  SOL
 
 
 ; NEIGHBORSEARCHING PARAMETERS
@@ -62,7 +56,7 @@ tau_t                    = 1.0  1.0  1.0
 ref_t                    = 278  278  278
 
 
-; PRESSURE COUPLING        
+; PRESSURE COUPLING     
 pcoupl                   = no
 
 
@@ -73,7 +67,8 @@ gen-seed                 = 3532
 
 
 ; OPTIONS FOR BONDS    
-constraints              = none
+constraints              = h-bonds
+constraint_algorithm     = lincs
 
 
 ; ENERGY GROUP EXCLUSIONS
