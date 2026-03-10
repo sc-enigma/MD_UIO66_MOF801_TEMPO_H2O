@@ -6,9 +6,10 @@ define                   =
 ; RUN CONTROL PARAMETERS
 integrator               = md
 dt                       = 0.001
-nsteps                   = 100000000 ; 100 ns
+nsteps                   = 1000000   ; 1 ns
 comm-mode                = Linear
-nstcomm                  = 100
+nstcomm                  = 100       ; 0.1 ps
+comm-grps                =
 
 
 ; OUTPUT CONTROL OPTIONS
@@ -19,7 +20,7 @@ nstlog                   = 0
 nstcalcenergy            = 100       ; 0.1 ps
 nstenergy                = 0
 nstxout-compressed       = 100       ; 0.1 ps
-energygrps               = UIO  TMP  SOL
+energygrps               = UIO  TMP
 
 
 ; NEIGHBORSEARCHING PARAMETERS
@@ -42,7 +43,7 @@ rvdw                     = 1.4
 DispCorr                 = EnerPres
 
 
-; EWALD/PME/PPPM parameters
+; EWALD/PME/PPPM PARAMETERS
 fourierspacing           = 0.12
 pme_order                = 4
 ewald_rtol               = 1e-05
@@ -51,17 +52,17 @@ ewald_rtol               = 1e-05
 ; OPTIONS FOR WEAK COUPLING ALGORITHMS
 ; Temperature coupling  
 tcoupl                   = v-rescale
-tc-grps                  = UIO  TMP  SOL
-tau_t                    = 1.0  1.0  1.0
-ref_t                    = 278  278  278
+tc-grps                  = UIO  TMP
+tau_t                    = 1.0  1.0
+ref_t                    = 278  278
 
 
-; PRESSURE COUPLING     
+; PRESSURE COUPLING coupling     
 pcoupl                   = no
 
 
 ; GENERATE VELOCITIES FOR STARTUP RUN
-gen-vel                  = no
+gen-vel                  = yes
 gen-temp                 = 278
 gen-seed                 = 3532
 
