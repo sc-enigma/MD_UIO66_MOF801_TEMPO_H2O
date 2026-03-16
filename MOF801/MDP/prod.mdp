@@ -53,7 +53,7 @@ ewald_rtol               = 1e-05
 tcoupl                   = v-rescale
 tc-grps                  = MOF  TMP  SOL
 tau_t                    = 1.0  1.0  1.0
-ref_t                    = 278  278  278
+ref_t                    = 300  300  300
 
 
 ; PRESSURE COUPLING     
@@ -62,8 +62,6 @@ pcoupl                   = no
 
 ; GENERATE VELOCITIES FOR STARTUP RUN
 gen-vel                  = no
-gen-temp                 = 278
-gen-seed                 = 3532
 
 
 ; OPTIONS FOR BONDS    
