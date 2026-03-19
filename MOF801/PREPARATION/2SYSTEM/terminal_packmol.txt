@@ -1,3 +1,0 @@
-julia
-import Pkg; Pkg.add("Packmol")
-using Packmol; run_packmol()
