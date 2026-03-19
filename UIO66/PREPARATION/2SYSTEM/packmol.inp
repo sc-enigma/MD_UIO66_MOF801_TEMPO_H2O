@@ -9,11 +9,11 @@ structure uio66_tempo.pdb
 end structure
 
 structure tip4p.pdb
-  number 364
+  number 607
   inside cube 3.483 3.483 3.483 31.387
 end structure
 
 structure tip4p.pdb
-  number 373
+  number 621
   outside cube 3.483 3.483 3.483 31.387
 end structure
