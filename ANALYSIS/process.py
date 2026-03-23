@@ -1,6 +1,7 @@
 # https://mdtraj.readthedocs.io/en/stable/load_functions.html
 import os
 import mdtraj as md
+import numpy as np
 from plot_data import plot_data
 
 def unpack_load_params(load_params):
@@ -39,6 +40,8 @@ def iterprocess(task, trajectory:str, task_params=None, load_params={}):
         idx_chunk = 0
         for coords in md.iterload(f'{trajectory}/traj_comp.xtc', top=f'{trajectory}/prod.gro', chunk=chunk, stride=stride, skip=skip, atom_indices=atom_indices):
             print(f'{traj_name} {idx_chunk * chunk / 10} ps')
+            if np.shape(coords.xyz)[0] < chunk:
+                break
             x, y = task(coords, task_params)
             data.add(x, y)
             idx_chunk += 1
