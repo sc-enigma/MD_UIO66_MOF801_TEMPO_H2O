@@ -1,6 +1,6 @@
 from process import process, iterprocess
 from plot_manager import plot_manager
-from rotacf import rotacf
+from task_rotacf import task_rotacf
 from utils import make_name
 
 data_path = '/home/sc_enigma/Projects/MD_UIO66_MOF801_TEMPO_H2O/PROD/DATA/'
@@ -19,9 +19,7 @@ trajectories = [\
 # rotacf
 man_rotacf = plot_manager(data_path+'rotacf', 'rotacf')
 for trajectory in trajectories:
-    data = iterprocess(rotacf, trajectory, [], {'atom_indices':[2020,2030]})
+    data = iterprocess(task_rotacf, trajectory, [], {'atom_indices':[2021,2022,2031], 'chunk':10000})
     man_rotacf.update(make_name(trajectory), data)
-    break
-
 man_rotacf.dump()
 man_rotacf.save()

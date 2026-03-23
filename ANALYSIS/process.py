@@ -1,4 +1,5 @@
 # https://mdtraj.readthedocs.io/en/stable/load_functions.html
+import os
 import mdtraj as md
 from plot_data import plot_data
 
@@ -18,15 +19,27 @@ def unpack_load_params(load_params):
     return chunk, stride, skip, atom_indices
 
 def process(task, trajectory:str, task_params=None, load_params={}):
+    traj, top = f'{trajectory}/traj_comp.xtc', f'{trajectory}/prod.gro'    
     chunk, stride, skip, atom_indices = unpack_load_params(load_params)
+    traj_name = trajectory.split('/')[-1]
     data = plot_data()
-    chunk = md.load(f'{trajectory}/traj_comp.xtc', top=f'{trajectory}/prod.gro', stride=stride, atom_indices=atom_indices)
-    data.add(task(chunk, params))
+    if os.path.exists(traj) and os.path.exists(top):
+        print(f'{traj_name} 0 ps')
+        coords = md.load(f'{trajectory}/traj_comp.xtc', top=f'{trajectory}/prod.gro', stride=stride, atom_indices=atom_indices)
+        x, y = task(coords, params)
+        data.add(x, y)
     return data
 
 def iterprocess(task, trajectory:str, task_params=None, load_params={}):
+    traj, top = f'{trajectory}/traj_comp.xtc', f'{trajectory}/prod.gro'
     chunk, stride, skip, atom_indices = unpack_load_params(load_params)
+    traj_name = trajectory.split('/')[-1]
     data = plot_data()
-    for chunk in md.iterload(f'{trajectory}/traj_comp.xtc', top=f'{trajectory}/prod.gro', chunk=chunk, stride=stride, skip=skip, atom_indices=atom_indices):
-        data.add(task(chunk, task_params))
+    if os.path.exists(traj) and os.path.exists(top):
+        idx_chunk = 0
+        for coords in md.iterload(f'{trajectory}/traj_comp.xtc', top=f'{trajectory}/prod.gro', chunk=chunk, stride=stride, skip=skip, atom_indices=atom_indices):
+            print(f'{traj_name} {idx_chunk * chunk / 10} ps')
+            x, y = task(coords, task_params)
+            data.add(x, y)
+            idx_chunk += 1
     return data
