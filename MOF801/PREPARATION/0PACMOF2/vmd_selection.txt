@@ -1,7 +1,0 @@
-type Zr and x > 12 and x < 42 and y > 12 and y < 42 and z > 12 and z < 42
-
-type O3 and x > 16 and x < 38 and y > 16 and y < 38 and z > 16 and z < 38
-
-x > 17 and x < 37 and y > 17 and y < 37 and z > 17 and z < 37
-
-type Zr and x > 12 and x < 42 and y > 12 and y < 42 and z > 12 and z < 42 or type O3 and x > 16 and x < 38 and y > 16 and y < 38 and z > 16 and z < 38 or x > 17 and x < 37 and y > 17 and y < 37 and z > 17 and z < 37
