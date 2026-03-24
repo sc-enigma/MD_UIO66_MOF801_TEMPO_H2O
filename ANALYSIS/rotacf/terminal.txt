@@ -1,0 +1,8 @@
+gmx_mpi rotacf -f ../../UIO66+TEMPO+H2O_B3_0.0/traj_comp.xtc -s ../../UIO66+TEMPO+H2O_B3_0.0/prod.tpr -n rotacf.ndx -o UIO66+TEMPO+H2O_B3_0.0.xvg
+gmx_mpi rotacf -f ../../UIO66+TEMPO+H2O_B3_0.1/traj_comp.xtc -s ../../UIO66+TEMPO+H2O_B3_0.1/prod.tpr -n rotacf.ndx -o UIO66+TEMPO+H2O_B3_0.1.xvg
+gmx_mpi rotacf -f ../../UIO66+TEMPO+H2O_B3_0.2/traj_comp.xtc -s ../../UIO66+TEMPO+H2O_B3_0.2/prod.tpr -n rotacf.ndx -o UIO66+TEMPO+H2O_B3_0.2.xvg
+gmx_mpi rotacf -f ../../UIO66+TEMPO+H2O_B3_0.3/traj_comp.xtc -s ../../UIO66+TEMPO+H2O_B3_0.3/prod.tpr -n rotacf.ndx -o UIO66+TEMPO+H2O_B3_0.3.xvg
+gmx_mpi rotacf -f ../../UIO66+TEMPO+H2O_B3_0.4/traj_comp.xtc -s ../../UIO66+TEMPO+H2O_B3_0.4/prod.tpr -n rotacf.ndx -o UIO66+TEMPO+H2O_B3_0.4.xvg
+gmx_mpi rotacf -f ../../UIO66+TEMPO+H2O_B3_0.5/traj_comp.xtc -s ../../UIO66+TEMPO+H2O_B3_0.5/prod.tpr -n rotacf.ndx -o UIO66+TEMPO+H2O_B3_0.5.xvg
+gmx_mpi rotacf -f ../../UIO66+TEMPO+H2O_B3_0.6/traj_comp.xtc -s ../../UIO66+TEMPO+H2O_B3_0.6/prod.tpr -n rotacf.ndx -o UIO66+TEMPO+H2O_B3_0.6.xvg
+gmx_mpi rotacf -f ../../UIO66+TEMPO+H2O_B3_1.0/traj_comp.xtc -s ../../UIO66+TEMPO+H2O_B3_1.0/prod.tpr -n rotacf.ndx -o UIO66+TEMPO+H2O_B3_1.0.xvg

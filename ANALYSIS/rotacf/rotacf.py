@@ -1,5 +1,5 @@
-import math
 import numpy as np
+from scipy.interpolate import splrep, BSpline
 from scipy.optimize import curve_fit
 import matplotlib.pyplot as plt
 
@@ -9,45 +9,44 @@ def read_xvg(file_name):
     lines = [line for line in lines if len(line) != 0 \
              if line[0] != '@' and line[0] != '#' and line[0] != '&']
     file.close()
+
     x = [float(line.split()[0]) for line in lines]
     y = [float(line.split()[1]) for line in lines]
     return x, y
 
-def truncate_by_y_val(x, y, y_val):
-    i = 0
-    while i + 1 < len(y):
-        i += 1
-        if y[i] < y_val:
-            break
-    return x[:i], y[:i]
+def smooth(x, y):
+    tck = splrep(x, y, s=0)
+    return x, BSpline(*tck)(x)
 
-def exp_fit(x, y, min_y_val, max_y_val):
-    x_for_opt, y_for_opt = [], []
-    search_threshold = max_y_val
-    for i in range(len(y)):
-        if y[i] < search_threshold:
-            x_for_opt.append(x[i])
-            y_for_opt.append(y[i])
-            search_threshold -= 0.1
-        if search_threshold <= min_y_val:
-            break
-    plt.scatter(x_for_opt, y_for_opt, color='k')
-    def exp_func(x, a, b):
-        return a * np.exp(-b * x)
-    params, covariance = curve_fit(exp_func, x_for_opt, y_for_opt)
-    return params
-    # b = math.log(y_for_opt[0] / y_for_opt[-1]) / (x_for_opt[-1] - x_for_opt[0])
-    # a = y_for_opt[0] / np.exp(-b * x_for_opt[0])
-    # return [a, b]
+def find_tau(x, y):
+    def exp(x,a,b,c):
+        return a * np.exp(-b*x) + c
+    popt, pcov = curve_fit(exp, x, y)
+    a, b, c = popt
+    return 1/b # ps
+    
+def plot_tau(x, y):
+    plt.cla()
+    def exp(x,a,b,c):
+        return a * np.exp(-b*x) + c
+    plt.plot(x, y)
+    plt.plot(x, [a * np.exp(-b*v) + c for v in x ])
+    plt.show()
 
-x, y = read_xvg('test.xvg')
-x, y = truncate_by_y_val(x, y, 0.1)
-params = exp_fit(x, y, 0.1, 0.8)
-y_exp = [params[0] * np.exp(-params[1] * val) for val in x]
+trajectories = [
+    'UIO66+TEMPO+H2O_B3_0.0.xvg',
+    'UIO66+TEMPO+H2O_B3_0.1.xvg',
+    'UIO66+TEMPO+H2O_B3_0.2.xvg',
+    'UIO66+TEMPO+H2O_B3_0.3.xvg',
+    'UIO66+TEMPO+H2O_B3_0.4.xvg',
+    'UIO66+TEMPO+H2O_B3_0.5.xvg',
+    'UIO66+TEMPO+H2O_B3_0.6.xvg',
+    ]
 
-t_corr = 1 / params[1] / 1000
-print(f't_corr = {t_corr} ns')
-
-plt.plot(x, y, color='k')
-plt.plot(x, y_exp, color='r')
-plt.show()
+for trajectory in trajectories:
+    x, y = read_xvg(trajectory)
+    x, y = smooth(x, y)
+    x, y = x[:1000], y[:1000]
+    print(trajectory, find_tau(x,y))
+    
+    
