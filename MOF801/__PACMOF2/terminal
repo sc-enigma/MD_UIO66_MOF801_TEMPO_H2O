@@ -1,0 +1,24 @@
+CLONE (bash)
+git clone https://github.com/snurr-group/pacmof2
+conda create -n pacmof2 python==3.9
+conda activate pacmof2
+conda install -c conda-forge pymatgen=2023.10.4
+conda install -c conda-forge ase=3.22.1
+conda install -c conda-forge scikit-learn=1.3.2
+pip install build
+
+MODELS
+!! wget -P pacmof2/models/ https://zenodo.org/records/12747095/files/PACMOF2_ionic.gz
+wget -P pacmof2/models/ https://zenodo.org/records/12747095/files/PACMOF2_neutral.gz
+
+INSTALLING (bash)
+python3 -m build
+pip install .
+
+USAGE (python)
+conda activate pacmof2
+python
+from pacmof2 import pacmof2
+path_to_cif = '/home/sc_enigma/Projects/MD_MOF801/123/mof801_pacmof.cif'
+output_path = '/home/sc_enigma/Projects/MD_MOF801/123/'
+pacmof2.get_charges(path_to_cif, output_path, identifier="_pacmof")
