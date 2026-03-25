@@ -7,9 +7,9 @@ from atom import Atom, set_residue, mol2_to_atoms, shift_atoms, add_atoms
 from read_utils import read_mol2_file
 from write_utils import write_gro_file, write_mol2_file
 
-a     = 33.6700
-b     = 33.6700
-c     = 33.6700
+a     = 38.0
+b     = 38.0
+c     = 38.0
 alpha = 90.00 / 180 * np.pi
 beta  = 90.00 / 180 * np.pi
 gamma = 90.00 / 180 * np.pi
@@ -19,7 +19,9 @@ atoms_tempo = mol2_to_atoms(read_mol2_file('tempo/tempo.mol2'))
 
 atoms_mof801 = set_residue(atoms_mof801, "UIO")
 atoms_tempo = set_residue(atoms_tempo, "TMP")
-atoms_tempo = shift_atoms(atoms_tempo, np.array([12.3761, 12.3761, 12.3761]) - atoms_tempo[0].r)
+# a. Small pore - center (20.772, 20.772, 21.6001)
+# b. Big pore - center (12.3761, 12.3761, 12.3761)
+atoms_tempo = shift_atoms(atoms_tempo, np.array([20.872, 20.872, 20.0001]) - atoms_tempo[0].r)
 
 atoms = add_atoms(atoms_mof801, atoms_tempo)
 
