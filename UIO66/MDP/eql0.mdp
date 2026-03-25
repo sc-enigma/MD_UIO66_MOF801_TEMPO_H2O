@@ -6,7 +6,7 @@ define                   =
 ; RUN CONTROL PARAMETERS
 integrator               = md
 dt                       = 0.001
-nsteps                   = 10000     ; 1 ns
+nsteps                   = 100000    ; 0.1 ns
 comm-mode                = Linear
 nstcomm                  = 100       ; 0.1 ps
 comm-grps                =
@@ -54,7 +54,7 @@ ewald_rtol               = 1e-05
 tcoupl                   = v-rescale
 tc-grps                  = UIO  TMP
 tau_t                    = 1.0  1.0
-ref_t                    = 270  270
+ref_t                    = 260  260
 
 
 ; PRESSURE COUPLING coupling     
@@ -63,7 +63,7 @@ pcoupl                   = no
 
 ; GENERATE VELOCITIES FOR STARTUP RUN
 gen-vel                  = yes
-gen-temp                 = 270
+gen-temp                 = 260
 gen-seed                 = 3532
 
 

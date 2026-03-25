@@ -6,7 +6,7 @@ define                   =
 ; RUN CONTROL PARAMETERS
 integrator               = md
 dt                       = 0.001
-nsteps                   = 100000000 ; 100 ns
+nsteps                   = 30000000 ; 30 ns
 comm-mode                = Linear
 nstcomm                  = 100
 
@@ -53,7 +53,7 @@ ewald_rtol               = 1e-05
 tcoupl                   = v-rescale
 tc-grps                  = UIO  TMP  SOL
 tau_t                    = 1.0  1.0  1.0
-ref_t                    = 270  270  270
+ref_t                    = 260  260  260
 
 
 ; PRESSURE COUPLING     
