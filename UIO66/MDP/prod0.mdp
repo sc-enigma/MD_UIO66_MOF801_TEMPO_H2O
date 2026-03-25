@@ -53,7 +53,7 @@ ewald_rtol               = 1e-05
 tcoupl                   = v-rescale
 tc-grps                  = UIO  TMP
 tau_t                    = 1.0  1.0
-ref_t                    = 300  300
+ref_t                    = 270  270
 
 
 ; PRESSURE COUPLING     

@@ -54,7 +54,7 @@ ewald_rtol               = 1e-05
 tcoupl                   = v-rescale
 tc-grps                  = UIO  TMP  SOL
 tau_t                    = 1.0  1.0  1.0
-ref_t                    = 300  300  300
+ref_t                    = 270  270  270
 
 
 ; PRESSURE COUPLING coupling     
@@ -63,7 +63,7 @@ pcoupl                   = no
 
 ; GENERATE VELOCITIES FOR STARTUP RUN
 gen-vel                  = yes
-gen-temp                 = 300
+gen-temp                 = 270
 gen-seed                 = 3532
 
 
