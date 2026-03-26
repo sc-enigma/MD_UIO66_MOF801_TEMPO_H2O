@@ -68,7 +68,7 @@ pcoupl                   = no
 
 ; GENERATE VELOCITIES FOR STARTUP RUN
 gen-vel                  = yes
-gen-temp                 = 260
+gen-temp                 = 290
 gen-seed                 = 3532
 
 
