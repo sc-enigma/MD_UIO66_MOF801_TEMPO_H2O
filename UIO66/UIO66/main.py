@@ -4,7 +4,7 @@ import pickle
 import random
 import itertools
 
-sys.path.append('../../../COMPONENTS/')
+sys.path.append('../../COMPONENTS/')
 from atom import Atom, mol2_to_atoms, count_atoms, remove_non_bonded_atoms, remove_atoms, shift_atoms, remove_duplicates
 from linker_utils import find_linkers, find_connected_atoms, add_h, add_oh
 from read_utils import read_mol2_file
@@ -69,13 +69,14 @@ ids_linkers_to_remove = random.sample(range(0, len(linkers)), int(0.25 * len(lin
 
 # a. Small pore - center (20.772, 20.772, 21.6001)
 # May be removed [0, 2, 6, 73, 76, 102]
-for idx in [0, 2, 6, 73, 76, 102]:
+'''for idx in [0, 2, 6, 73, 76, 102]:
     if idx in ids_linkers_to_remove:
         ids_linkers_to_remove.remove(idx)
 for idx in [73, 76, 102]:
     if not idx in ids_linkers_to_remove:
         ids_linkers_to_remove.append(idx)
 ids_atoms_to_remove = list(itertools.chain.from_iterable([linkers[i] for i in ids_linkers_to_remove]))
+'''
 # b. Big pore - center (12.3761, 12.3761, 12.3761)
 '''
 # May be removed [0, 6, 73, 60]
@@ -88,6 +89,7 @@ for idx in [0, 6, 73]:
         ids_linkers_to_remove.append(idx)
 ids_atoms_to_remove = list(itertools.chain.from_iterable([linkers[i] for i in ids_linkers_to_remove]))
 '''
+
 # Add h / oh groups
 for i in ids_linkers_to_remove:
     connected_oxygens = find_connected_atoms(atoms, ['O1'], linkers[i])
