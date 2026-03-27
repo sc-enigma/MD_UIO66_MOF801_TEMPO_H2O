@@ -67,7 +67,7 @@ with open('__tmp/atoms_uio66.pickle', 'rb') as handle:
 linkers = find_linkers(atoms, ['Zr', 'O1', 'O3'], 12)
 ids_linkers_to_remove = random.sample(range(0, len(linkers)), int(0.25 * len(linkers)))
 
-# a. Small pore - center (20.772, 20.772, 21.6001)
+# a. Small pore - center (20.872, 20.872, 20.0001)
 # May be removed [0, 2, 6, 73, 76, 102]
 '''for idx in [0, 2, 6, 73, 76, 102]:
     if idx in ids_linkers_to_remove:
@@ -77,7 +77,7 @@ for idx in [73, 76, 102]:
         ids_linkers_to_remove.append(idx)
 ids_atoms_to_remove = list(itertools.chain.from_iterable([linkers[i] for i in ids_linkers_to_remove]))
 '''
-# b. Big pore - center (12.3761, 12.3761, 12.3761)
+# b. Big pore - center (13.855, 13.855, 24.23)
 '''
 # May be removed [0, 6, 73, 60]
 # Must remain [1, 9, 16, 17, 18, 19, 61, 74]
