@@ -19,9 +19,9 @@ atoms_tempo = mol2_to_atoms(read_mol2_file('tempo/tempo.mol2'))
 
 atoms_mof801 = set_residue(atoms_mof801, "UIO")
 atoms_tempo = set_residue(atoms_tempo, "TMP")
-# a. Small pore - center (20.772, 20.772, 21.6001)
+# a. Small pore - center (20.872, 20.872, 20.0001)
 # b. Big pore - center (12.3761, 12.3761, 12.3761)
-atoms_tempo = shift_atoms(atoms_tempo, np.array([20.872, 20.872, 20.0001]) - atoms_tempo[0].r)
+atoms_tempo = shift_atoms(atoms_tempo, np.array([12.3761, 12.3761, 12.3761]) - atoms_tempo[0].r)
 
 atoms = add_atoms(atoms_mof801, atoms_tempo)
 
